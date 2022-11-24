@@ -1,0 +1,9 @@
+services:
+  jekyll:
+    image: jekyll/jekyll:3.8
+    #command: bundle install
+    command: jekyll serve --drafts
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/srv/jekyll:z
