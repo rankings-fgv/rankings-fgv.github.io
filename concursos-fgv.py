@@ -22,8 +22,9 @@ for concurso in concursos:
     concursos[concurso]["nome"] = h1_element.text.strip().removeprefix("Concurso Público para o ")
     concursos[concurso]["data"] = datetime.strptime(td_elements[0].text, "%d/%m/%Y")
     concursos[concurso]["texto"] = td_elements[1].text
-    
+
+print("# Concursos")
 
 for c in sorted(concursos.items(), key=lambda x: x[1]["data"], reverse=True):
-    print("# [{}](./{}/)".format(c[1]["nome"], c[0].replace("/", "-")))
-    print("{}: {}\n".format(c[1]["data"].strftime("%d/%m/%Y"), c[1]["texto"]))
+    print("\n## [{}](./{}/)".format(c[1]["nome"], c[0].replace("/", "-")))
+    print("{}: {}".format(c[1]["data"].strftime("%d/%m/%Y"), c[1]["texto"]))
