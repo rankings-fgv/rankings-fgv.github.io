@@ -19,7 +19,7 @@ for concurso in concursos:
     table_element = soup.find("table")
     tr_element = table_element.find_all("tr")[1]
     td_elements = tr_element.find_all("td")
-    concursos[concurso]["nome"] = h1_element.text.strip().removeprefix("Concurso Público para o ")
+    concursos[concurso]["nome"] = h1_element.text.strip()[24:]
     concursos[concurso]["data"] = datetime.strptime(td_elements[0].text, "%d/%m/%Y")
     concursos[concurso]["texto"] = td_elements[1].text
 
