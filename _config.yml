@@ -8,5 +8,4 @@ plugins:
 - jekyll-remote-theme
 
 exclude:
-  - .gitignore
-  - *.py
+  - concursos-fgv.py
