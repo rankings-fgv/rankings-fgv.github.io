@@ -1,7 +1,9 @@
 title: "Rankings FGV"
 description: "Em construção..."
-show_downloads: false
+lang: pt-br
+
 theme: jekyll-theme-slate
+show_downloads: false
 
 exclude:
   - .venv/
