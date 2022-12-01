@@ -3,6 +3,9 @@
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/)
 30/11/2022: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/)
+30/11/2022: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Escrita Objetiva
+
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/)
 25/11/2022: Resultado Definitivo da Prova Objetiva
 
@@ -20,3 +23,6 @@
 
 ## [Senado Federal - Advogado](./senado22-3/)
 10/11/2022: COMUNICADO
+
+## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/)
+08/11/2022: Demanda de candidatos por vaga
