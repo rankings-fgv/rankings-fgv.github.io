@@ -10,6 +10,7 @@ concursos = {
     "senado22/3": {},
     "senado22/4": {},
     "trt16": {},
+    "trt13": {},
 }
 
 for concurso in concursos:
