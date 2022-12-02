@@ -9,6 +9,7 @@ concursos = {
     "senado22/2": {},
     "senado22/3": {},
     "senado22/4": {},
+    "senado22/5": {},
     "trt16": {},
     "trt13": {},
     "sefmg22": {},
