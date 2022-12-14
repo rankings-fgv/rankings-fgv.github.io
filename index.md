@@ -1,5 +1,8 @@
 # Concursos
 
+## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/)
+14/12/2022: COMUNICADO
+
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/)
 13/12/2022: Convocação para a Heteroidentificação
 
@@ -26,6 +29,3 @@
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/)
 21/11/2022: COMUNICADO
-
-## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/)
-08/11/2022: Demanda de candidatos por vaga
