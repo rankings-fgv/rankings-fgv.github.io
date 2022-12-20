@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
-19/12/2022: Resultado Definitivo da Prova Objetiva
+19/12/2022: Banca de Heteroidentificação
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/)
 19/12/2022: Resultado Definitivo da Prova Objetiva
