@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Tocantins](./tceto22/)
+20/12/2022: Consulta individual - Resultado Preliminar da Prova Discursiva
+
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
 19/12/2022: Banca de Heteroidentificação
 
@@ -14,9 +17,6 @@
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/)
 19/12/2022: Resultado Definitivo da Prova Objetiva
-
-## [Tribunal de Contas do Estado do Tocantins](./tceto22/)
-15/12/2022: Edital de Convocação para a Perícia Médica
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/)
 14/12/2022: COMUNICADO
