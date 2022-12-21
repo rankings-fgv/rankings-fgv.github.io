@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/)
-20/12/2022: Consulta individual - Resultado Preliminar da Prova Discursiva
+21/12/2022: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
 19/12/2022: Banca de Heteroidentificação
