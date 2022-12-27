@@ -1,13 +1,13 @@
 # Concursos
 
+## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
+27/12/2022: Consulta individual - Resultado Preliminar do Procedimento de Heteroidentificação
+
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/)
 27/12/2022: Consulta individual - Resultado Preliminar do Procedimento de Heteroidentificação
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/)
 21/12/2022: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
-
-## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
-19/12/2022: Banca de Heteroidentificação
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/)
 19/12/2022: Resultado Definitivo da Prova Objetiva
