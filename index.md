@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 16ª Região](./trt16/)
+27/12/2022: Consulta individual - Resultado Preliminar do Procedimento de Heteroidentificação
+
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/)
 21/12/2022: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
 
@@ -20,9 +23,6 @@
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/)
 14/12/2022: COMUNICADO
-
-## [Tribunal Regional do Trabalho - 16ª Região](./trt16/)
-13/12/2022: Convocação para a Heteroidentificação
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/)
 30/11/2022: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Escrita Objetiva
