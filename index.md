@@ -4,7 +4,7 @@
 28/12/2022: Interposição de recursos contra o Resultado Preliminar do Procedimento de Heteroidentificação
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/)
-28/12/2022: Interposição de recursos contra o Resultado Preliminar do Procedimento de Heteroidentificação
+28/12/2022: COMUNICADO
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/)
 21/12/2022: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
