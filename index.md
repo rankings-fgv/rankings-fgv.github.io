@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/)
+30/12/2022: Consulta individual - Resultado Preliminar da Prova Escrita Objetiva
+
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
 28/12/2022: Interposição de recursos contra o Resultado Preliminar do Procedimento de Heteroidentificação
 
@@ -23,9 +26,6 @@
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/)
 14/12/2022: COMUNICADO
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/)
-30/11/2022: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Escrita Objetiva
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/)
 21/11/2022: COMUNICADO
