@@ -1,16 +1,19 @@
 # Concursos
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
-02/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
+02/01/2023: Gabarito Prova Discursiva
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/)
-02/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
+02/01/2023: Gabarito Prova Discursiva
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/)
-02/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
+02/01/2023: Gabarito Prova Discursiva
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/)
 02/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Objetiva
+
+## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/)
+02/01/2023: Consulta ao Local de Prova
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/)
 28/12/2022: COMUNICADO
@@ -23,9 +26,6 @@
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/)
 19/12/2022: Resultado Definitivo da Prova Objetiva
-
-## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/)
-14/12/2022: COMUNICADO
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/)
 21/11/2022: COMUNICADO
