@@ -1,13 +1,13 @@
 # Concursos
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
-02/01/2023: Gabarito Prova Discursiva
+02/01/2023: COMUNICADO
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/)
-02/01/2023: Gabarito Prova Discursiva
+02/01/2023: COMUNICADO
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/)
-02/01/2023: Gabarito Prova Discursiva
+02/01/2023: COMUNICADO
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/)
 02/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Objetiva
