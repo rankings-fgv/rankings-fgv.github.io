@@ -23,9 +23,10 @@ for concurso in concursos:
     table_element = soup.find("table")
     tr_element = table_element.find_all("tr")[1]
     td_elements = tr_element.find_all("td")
+    td_p_element = td_elements[1].find_all("p")
     concursos[concurso]["nome"] = h1_element.text.strip()[24:]
     concursos[concurso]["data"] = datetime.strptime(td_elements[0].text, "%d/%m/%Y")
-    concursos[concurso]["texto"] = td_elements[1].text
+    concursos[concurso]["texto"] = td_p_element[0].text if len(td_p_element) > 0 else td_elements[1].text
 
 print("# Concursos")
 
