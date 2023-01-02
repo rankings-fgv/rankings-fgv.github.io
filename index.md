@@ -1,16 +1,16 @@
 # Concursos
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
-30/12/2022: Consulta individual - Resultado Preliminar da Prova Discursiva
+02/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/)
-30/12/2022: Consulta individual - Resultado Preliminar da Prova Discursiva
+02/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/)
-30/12/2022: Consulta individual - Resultado Preliminar da Prova Discursiva
+02/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/)
-30/12/2022: Consulta individual - Resultado Preliminar da Prova Escrita Objetiva
+02/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Objetiva
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/)
 28/12/2022: COMUNICADO
