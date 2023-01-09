@@ -28,4 +28,4 @@
 19/12/2022: Resultado Definitivo da Prova Objetiva
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/)
-21/11/2022: COMUNICADO
+02/09/2022: Consulta individual - Resultado Preliminar da Prova Discursiva (retificado em 09/01/2023)
