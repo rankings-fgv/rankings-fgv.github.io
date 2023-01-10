@@ -1,10 +1,10 @@
 # Concursos
 
+## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/)
+10/01/2023: Gabarito Oficial Preliminar da Prova Escrita Objetiva
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/)
 09/01/2023: 3ª Retificação
-
-## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/)
-07/01/2023: COMUNICADO
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
 02/01/2023: COMUNICADO
