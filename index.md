@@ -7,7 +7,7 @@
 10/01/2023: Resultado Definitivo da Prova Escrita Objetiva
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/)
-10/01/2023: Gabarito Oficial Preliminar da Prova Escrita Objetiva
+10/01/2023: COMUNICADO
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
 02/01/2023: COMUNICADO
