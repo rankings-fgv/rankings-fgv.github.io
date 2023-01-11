@@ -1,13 +1,13 @@
 # Concursos
 
+## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/)
+11/01/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Escrita Objetiva
+
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/)
 10/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/)
 10/01/2023: Resultado Definitivo da Prova Escrita Objetiva
-
-## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/)
-10/01/2023: COMUNICADO
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
 02/01/2023: COMUNICADO
