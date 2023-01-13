@@ -1,13 +1,13 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/)
+13/01/2023: COMUNICADO
+
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/)
-11/01/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Escrita Objetiva
+13/01/2023: 4ª Retificação
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/)
 10/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/)
-10/01/2023: Resultado Definitivo da Prova Escrita Objetiva
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
 02/01/2023: COMUNICADO
