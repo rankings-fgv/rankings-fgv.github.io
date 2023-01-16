@@ -1,10 +1,10 @@
 # Concursos
 
+## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
+16/01/2023: Resultado Final de Aprovados (específico para candidatos negros)
+
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/)
 16/01/2023: Resultado Definitivo do Procedimento de Heteroidentificação
-
-## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
-13/01/2023: Resultado Definitivo do Procedimento de Heteroidentificação
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/)
 13/01/2023: COMUNICADO
