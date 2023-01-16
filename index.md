@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 16ª Região](./trt16/)
+16/01/2023: Resultado Definitivo do Procedimento de Heteroidentificação
+
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/)
 13/01/2023: Resultado Definitivo do Procedimento de Heteroidentificação
 
@@ -17,9 +20,6 @@
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/)
 02/01/2023: COMUNICADO
-
-## [Tribunal Regional do Trabalho - 16ª Região](./trt16/)
-28/12/2022: COMUNICADO
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/)
 21/12/2022: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
