@@ -31,5 +31,5 @@ for concurso in concursos:
 print("# Concursos")
 
 for c in sorted(concursos.items(), key=lambda x: x[1]["data"], reverse=True):
-    print("\n## [{}](./{}/)".format(c[1]["nome"], c[0].replace("/", "-")))
+    print("\n## [{}](./{}/) *({})*".format(c[1]["nome"], c[0].replace("/", "-"), c[0]))
     print("{}: {}".format(c[1]["data"].strftime("%d/%m/%Y"), c[1]["texto"]))
