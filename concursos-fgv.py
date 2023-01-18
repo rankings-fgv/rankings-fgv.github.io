@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 concursos = {
+    "tjdft22": {},
     "tjto22": {},
     "tceto22": {},
     "senado22/1": {},
