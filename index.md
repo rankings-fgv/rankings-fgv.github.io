@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
+23/01/2023: Resultado Preliminar da Perícia Médica
+
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 17/01/2023: Edital de Homologação
 
@@ -23,9 +26,6 @@
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 02/01/2023: COMUNICADO
-
-## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
-21/12/2022: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 19/12/2022: Resultado Definitivo da Prova Objetiva
