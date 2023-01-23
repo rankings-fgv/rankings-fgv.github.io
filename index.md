@@ -3,6 +3,12 @@
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 23/01/2023: Resultado Preliminar da Perícia Médica
 
+## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
+23/01/2023: Consulta individual - Resultado Definitivo da Prova Discursiva
+
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+23/01/2023: Consulta individual - Resultado Definitivo da Prova Discursiva
+
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 23/01/2023: Edital de Convocação para a Perícia Médica
 
@@ -20,12 +26,6 @@
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 10/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
-
-## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
-02/01/2023: COMUNICADO
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-02/01/2023: COMUNICADO
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 19/12/2022: Resultado Definitivo da Prova Objetiva
