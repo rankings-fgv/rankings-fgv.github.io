@@ -3,11 +3,11 @@
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 23/01/2023: Resultado Preliminar da Perícia Médica
 
+## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
+23/01/2023: Edital de Convocação para a Perícia Médica
+
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 17/01/2023: Edital de Homologação
-
-## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
-16/01/2023: Resultado Definitivo do Procedimento de Heteroidentificação
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 13/01/2023: COMUNICADO
