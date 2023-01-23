@@ -33,7 +33,7 @@ with open(f"{basename}.json", "r") as json_file_r:
         #
         if args.token:
             if json_concursos[concurso] != tmp_concursos[concurso]["data_modificacao"]:
-                message = requests.utils.quote("A página do Concurso Público para o {} ({}) foi atualizada\n\nÚltima atualização: {}\n\n{}: {}\n\nhttps://conhecimento.fgv.br/concursos/{}".format(tmp_concursos[concurso]["nome"], concurso, datetime.fromisoformat(tmp_concursos[concurso]["data_modificacao"]).strftime("%d/%m/%Y %H:%M:%S"), tmp_concursos[concurso]["data"].strftime("%d/%m/%Y"), tmp_concursos[concurso]["texto"], concurso.replace("/", "-")))
+                message = requests.utils.quote("A página do Concurso Público para o(a) {} ({}) foi atualizada\n\nÚltima atualização: {}\n\n{}: {}\n\nhttps://conhecimento.fgv.br/concursos/{}".format(tmp_concursos[concurso]["nome"], concurso, datetime.fromisoformat(tmp_concursos[concurso]["data_modificacao"]).strftime("%d/%m/%Y %H:%M:%S"), tmp_concursos[concurso]["data"].strftime("%d/%m/%Y"), tmp_concursos[concurso]["texto"], concurso))
                 url_bot = f"https://api.telegram.org/bot{args.token}/sendMessage?chat_id=@rankingsFGV&text={message}"
                 requests.get(url_bot)
         json_concursos[concurso] = tmp_concursos[concurso]["data_modificacao"]
