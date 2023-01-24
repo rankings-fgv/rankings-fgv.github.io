@@ -7,7 +7,7 @@
 24/01/2023: Edital de convocação para a Prova Prática de Taquigrafia
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-23/01/2023: Consulta individual - Resultado Definitivo da Prova Discursiva
+24/01/2023: Edital de convocação para o Exame de Sanidade Física e Mental
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 23/01/2023: Edital de Convocação para a Perícia Médica
