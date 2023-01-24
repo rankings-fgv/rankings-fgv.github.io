@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
-23/01/2023: Resultado Preliminar da Perícia Médica
+24/01/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 23/01/2023: Consulta individual - Resultado Definitivo da Prova Discursiva
