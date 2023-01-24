@@ -4,7 +4,7 @@
 24/01/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
-23/01/2023: Consulta individual - Resultado Definitivo da Prova Discursiva
+24/01/2023: Edital de convocação para a Prova Prática de Taquigrafia
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 23/01/2023: Consulta individual - Resultado Definitivo da Prova Discursiva
