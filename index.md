@@ -10,7 +10,7 @@
 24/01/2023: Edital de convocação para o Exame de Sanidade Física e Mental
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
-23/01/2023: Edital de Convocação para a Perícia Médica
+23/01/2023: Edital de Convocação para a Perícia Médica (atualizado em 25/01/2023)
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 17/01/2023: Edital de Homologação
