@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+26/01/2023: Consulta individual - Resultado Preliminar da Prova Escrita Objetiva Retificado (Analista Judiciário - Oficial de Justiça Avaliador Federal)
+
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 24/01/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
 
@@ -14,9 +17,6 @@
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 17/01/2023: Edital de Homologação
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-13/01/2023: COMUNICADO
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 13/01/2023: 4ª Retificação
