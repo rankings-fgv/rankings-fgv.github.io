@@ -1,5 +1,11 @@
 # Concursos
 
+## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
+27/01/2023: Resultado Preliminar da Prova Discursiva
+
+## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
+27/01/2023: Resultado Preliminar da Prova Discursiva
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 27/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Objetiva Retificado (Analista Judiciário - Oficial de Justiça Avaliador Federal)
 
@@ -26,9 +32,3 @@
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 10/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
-
-## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
-19/12/2022: Resultado Definitivo da Prova Objetiva
-
-## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
-19/12/2022: Resultado Definitivo da Prova Objetiva
