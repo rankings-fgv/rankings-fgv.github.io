@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-26/01/2023: COMUNICADO
+27/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Objetiva Retificado (Analista Judiciário - Oficial de Justiça Avaliador Federal)
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 24/01/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
