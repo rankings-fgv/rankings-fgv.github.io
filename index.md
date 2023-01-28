@@ -4,7 +4,7 @@
 27/01/2023: Gabarito Prova Discursiva
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
-27/01/2023: Gabarito Prova Discursiva
+27/01/2023: Gabarito Prova Discursiva (atualizado em 27/01/2023)
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 27/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Objetiva Retificado (Analista Judiciário - Oficial de Justiça Avaliador Federal)
