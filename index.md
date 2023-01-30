@@ -9,6 +9,9 @@
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 27/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Objetiva Retificado (Analista Judiciário - Oficial de Justiça Avaliador Federal)
 
+## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
+25/01/2023: COMUNICADO
+
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 24/01/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
 
