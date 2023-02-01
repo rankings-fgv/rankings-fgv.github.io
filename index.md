@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
-31/01/2023: Gabarito Oficial Preliminar da Prova Objetiva
+01/02/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 30/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
