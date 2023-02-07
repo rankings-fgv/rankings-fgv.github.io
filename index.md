@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
+07/02/2023: COMUNICADO
+
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 02/02/2023: COMUNICADO
 
@@ -32,6 +35,3 @@
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 11/01/2023: Resultado Final de Aprovados Retificado em 01/12/2022 (publicação em Diário Oficial em 11/01/2023)
-
-## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
-10/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
