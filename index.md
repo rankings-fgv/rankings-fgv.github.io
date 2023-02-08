@@ -1,10 +1,10 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
+08/02/2023: COMUNICADO
+
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 07/02/2023: COMUNICADO
-
-## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
-02/02/2023: COMUNICADO
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 01/02/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva
