@@ -3,6 +3,9 @@
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+10/02/2023: Resultado Definitivo da Prova Escrita Objetiva Retificado (Analista Judiciário - Oficial de Justiça Avaliador Federal)
+
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 08/02/2023: COMUNICADO
 
@@ -17,9 +20,6 @@
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 30/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-27/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Objetiva Retificado (Analista Judiciário - Oficial de Justiça Avaliador Federal)
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 24/01/2023: Edital de convocação para a Prova Prática de Taquigrafia
