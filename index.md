@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
+10/02/2023: Resultado Final de Aprovados (específico para candidatos com deficiência)
+
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 08/02/2023: COMUNICADO
 
@@ -17,9 +20,6 @@
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 27/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Objetiva Retificado (Analista Judiciário - Oficial de Justiça Avaliador Federal)
-
-## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
-24/01/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 24/01/2023: Edital de convocação para a Prova Prática de Taquigrafia
