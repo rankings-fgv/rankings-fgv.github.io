@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
-10/02/2023: Resultado Final de Aprovados (específico para candidatos com deficiência)
+10/02/2023: Edital de Homologação
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 08/02/2023: COMUNICADO
