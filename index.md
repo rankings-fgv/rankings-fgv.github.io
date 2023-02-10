@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+10/02/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
 
@@ -32,6 +35,3 @@
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 13/01/2023: 4ª Retificação
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-11/01/2023: Resultado Final de Aprovados Retificado em 01/12/2022 (publicação em Diário Oficial em 11/01/2023)
