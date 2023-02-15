@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
-15/02/2023: 1ª Retificação do Edital de Convocação para a Perícia Médica
+15/02/2023: Resultado Preliminar da Perícia Médica
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 10/02/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
