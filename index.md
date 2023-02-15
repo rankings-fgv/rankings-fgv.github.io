@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
+15/02/2023: 1ª Retificação do Edital de Convocação para a Perícia Médica
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 10/02/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
@@ -8,9 +11,6 @@
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 10/02/2023: Resultado Definitivo da Prova Escrita Objetiva Retificado (Analista Judiciário - Oficial de Justiça Avaliador Federal)
-
-## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
-08/02/2023: COMUNICADO
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 07/02/2023: COMUNICADO
