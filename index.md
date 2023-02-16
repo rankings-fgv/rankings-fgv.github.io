@@ -1,10 +1,13 @@
 # Concursos
 
+## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
+16/02/2023: Comissão de Heteroidentificação
+
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
-15/02/2023: Resultado Preliminar da Perícia Médica
+16/02/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
-15/02/2023: Consulta individual - Resultado Preliminar da Prova Escrita Objetiva
+16/02/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Objetiva
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 10/02/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
@@ -26,9 +29,6 @@
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 30/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
-
-## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
-24/01/2023: Edital de convocação para a Prova Prática de Taquigrafia
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 24/01/2023: Edital de convocação para o Exame de Sanidade Física e Mental
