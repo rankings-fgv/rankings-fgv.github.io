@@ -4,7 +4,7 @@
 16/02/2023: Comissão de Heteroidentificação
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
-16/02/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
+16/02/2023: COMUNICADO - Perícia Médica
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 16/02/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Objetiva
