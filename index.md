@@ -3,11 +3,11 @@
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 17/02/2023: Consulta individual - Resultado Preliminar da Avaliação Biopsicossocial e do Procedimento de Heteroidentificação
 
+## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
+17/02/2023: COMUNICADO
+
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 16/02/2023: COMUNICADO - Perícia Médica
-
-## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
-16/02/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Objetiva
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 10/02/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
