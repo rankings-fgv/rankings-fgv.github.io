@@ -3,6 +3,9 @@
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 17/02/2023: Consulta individual - Resultado Preliminar da Avaliação Biopsicossocial e do Procedimento de Heteroidentificação
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+17/02/2023: Espelho de Correção - Prova Escrita Discursiva
+
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 17/02/2023: COMUNICADO
 
@@ -14,9 +17,6 @@
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-10/02/2023: Resultado Definitivo da Prova Escrita Objetiva Retificado (Analista Judiciário - Oficial de Justiça Avaliador Federal)
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 07/02/2023: COMUNICADO
