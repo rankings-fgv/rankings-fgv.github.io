@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
-16/02/2023: Comissão de Heteroidentificação
+17/02/2023: Consulta individual - Resultado Preliminar da Avaliação Biopsicossocial e do Procedimento de Heteroidentificação
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 16/02/2023: COMUNICADO - Perícia Médica
