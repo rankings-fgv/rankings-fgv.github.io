@@ -7,7 +7,7 @@
 23/02/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Discursiva
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
-17/02/2023: COMUNICADO
+23/02/2023: 5ª Retificação
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 16/02/2023: COMUNICADO - Perícia Médica
