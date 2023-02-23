@@ -1,10 +1,10 @@
 # Concursos
 
+## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
+23/02/2023: Consulta individual - Resultado Preliminar da Prova Prática de Taquigrafia
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 23/02/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Discursiva
-
-## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
-22/02/2023: Interposição de recursos contra o Resultado Preliminar do Procedimento de Heteroidentificação
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 17/02/2023: COMUNICADO
