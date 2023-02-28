@@ -1,13 +1,13 @@
 # Concursos
 
-## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
-28/02/2023: COMUNICADO
-
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 27/02/2023: COMUNICADO
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 24/02/2023: Interposição de recursos contra o Resultado Preliminar da Prova Prática de Taquigrafia
+
+## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
+23/02/2023: 5ª Retificação
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 16/02/2023: COMUNICADO - Perícia Médica
