@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
-28/02/2023: COMUNICADO
+01/03/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Objetiva
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 27/02/2023: COMUNICADO
