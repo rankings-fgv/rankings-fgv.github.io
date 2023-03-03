@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
+03/03/2023: Edital de convocação para a Heteroidentificação
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 01/03/2023: COMUNICADO
 
@@ -17,9 +20,6 @@
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
-
-## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
-07/02/2023: COMUNICADO
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 01/02/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva
