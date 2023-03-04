@@ -1,5 +1,11 @@
 # Concursos
 
+## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
+04/03/2023: Edital de convocação para a Avaliação de Títulos
+
+## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
+04/03/2023: Edital de convocação para a Avaliação de Títulos
+
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 03/03/2023: Edital de convocação para a Heteroidentificação
 
@@ -23,12 +29,6 @@
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 01/02/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva
-
-## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
-30/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
-
-## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
-30/01/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 24/01/2023: Edital de convocação para o Exame de Sanidade Física e Mental
