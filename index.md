@@ -6,6 +6,9 @@
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 06/03/2023: Envio da documentação para a Avaliação de Títulos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+06/03/2023: Consulta à justificativa de inaptidão - Resultado Preliminar do Exame de Sanidade Física e Mental
+
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 03/03/2023: Edital de convocação para a Heteroidentificação
 
@@ -29,9 +32,6 @@
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 01/02/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-24/01/2023: Edital de convocação para o Exame de Sanidade Física e Mental
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 17/01/2023: Edital de Homologação
