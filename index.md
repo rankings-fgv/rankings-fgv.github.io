@@ -1,10 +1,10 @@
 # Concursos
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
-04/03/2023: Edital de convocação para a Avaliação de Títulos
+06/03/2023: Envio da documentação para a Avaliação de Títulos
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
-04/03/2023: Edital de convocação para a Avaliação de Títulos
+06/03/2023: Envio da documentação para a Avaliação de Títulos
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 03/03/2023: Edital de convocação para a Heteroidentificação
