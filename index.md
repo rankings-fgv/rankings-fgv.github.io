@@ -1,13 +1,13 @@
 # Concursos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+07/03/2023: Interposição de recursos contra o Resultado Preliminar do Exame de Sanidade Física e Mental
+
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 06/03/2023: Envio de Documentos - Heteroidentificação
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 06/03/2023: Envio de Documentos - Heteroidentificação
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-06/03/2023: Consulta à justificativa de inaptidão - Resultado Preliminar do Exame de Sanidade Física e Mental
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 06/03/2023: Cronograma Previsto
