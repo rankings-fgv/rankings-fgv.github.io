@@ -6,6 +6,9 @@
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 07/03/2023: Consulta individual - Resultado Preliminar da Prova Objetiva
 
+## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
+07/03/2023: Gabarito Oficial Preliminar da Prova Objetiva
+
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 06/03/2023: Envio de Documentos - Heteroidentificação
 
@@ -26,6 +29,9 @@
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 16/02/2023: COMUNICADO - Perícia Médica
+
+## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
+15/02/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 10/02/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
