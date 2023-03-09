@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
+09/03/2023: Resultado Definitivo do Procedimento de Heteroidentificação
+
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 08/03/2023: Comissão de Heteroidentificação
 
@@ -23,9 +26,6 @@
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 01/03/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Objetiva
-
-## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
-24/02/2023: Interposição de recursos contra o Resultado Preliminar da Prova Prática de Taquigrafia
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 16/02/2023: COMUNICADO - Perícia Médica
