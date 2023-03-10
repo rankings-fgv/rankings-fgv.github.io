@@ -3,6 +3,9 @@
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 10/03/2023: COMUNICADO
 
+## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
+10/03/2023: COMUNICADO
+
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 10/03/2023: Resultado Definitivo da Prova Escrita Objetiva
 
@@ -26,9 +29,6 @@
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 01/03/2023: COMUNICADO
-
-## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
-16/02/2023: COMUNICADO - Perícia Médica
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 15/02/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva
