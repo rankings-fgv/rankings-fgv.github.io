@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+10/03/2023: COMUNICADO
+
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 09/03/2023: Resultado Definitivo do Procedimento de Heteroidentificação
 
@@ -14,9 +17,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 08/03/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-07/03/2023: Interposição de recursos contra o Resultado Preliminar do Exame de Sanidade Física e Mental
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 03/03/2023: Edital de convocação para a Heteroidentificação
