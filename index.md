@@ -7,7 +7,7 @@
 10/03/2023: COMUNICADO
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-10/03/2023: Consulta individual - Resultado Definitivo da Prova Escrita Discursiva
+10/03/2023: Link para solicitação de adaptação para o Teste de Aptidão Física  – candidatos com deficiência
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 10/03/2023: Resultado Definitivo da Prova Escrita Objetiva
