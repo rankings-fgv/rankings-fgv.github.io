@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
+13/03/2023: Comissão de Heteroidentificação
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 10/03/2023: COMUNICADO
 
@@ -26,9 +29,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 08/03/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva
-
-## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
-03/03/2023: Edital de convocação para a Heteroidentificação
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 15/02/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva
