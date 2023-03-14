@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+14/03/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 14/03/2023: 
 Consulta ao Local da Prova Discursiva
@@ -33,9 +36,6 @@ Consulta ao Local da Prova Discursiva
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 15/02/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-10/02/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
