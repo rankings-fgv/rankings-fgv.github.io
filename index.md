@@ -1,5 +1,9 @@
 # Concursos
 
+## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
+14/03/2023: 
+Consulta ao Local da Prova Discursiva
+
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 13/03/2023: Comissão de Heteroidentificação
 
@@ -11,9 +15,6 @@
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 10/03/2023: Link para solicitação de adaptação para o Teste de Aptidão Física  – candidatos com deficiência
-
-## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
-10/03/2023: Consulta individual - Resultado Definitivo da Prova Escrita Objetiva
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 09/03/2023: Resultado Definitivo do Procedimento de Heteroidentificação
