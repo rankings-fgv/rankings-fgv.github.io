@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
+15/03/2023: Resultado Final de Aprovados (específico para candidatos negros)
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 14/03/2023: Resultado Final de Aprovados Retificado (candidatos sub judice) (publicação em Diário Oficial em 14/03/2023)
 
@@ -14,9 +17,6 @@ Consulta ao Local da Prova Discursiva
 13/03/2023: Comissão de Heteroidentificação
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-10/03/2023: COMUNICADO
-
-## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 10/03/2023: COMUNICADO
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
