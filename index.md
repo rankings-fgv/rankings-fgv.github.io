@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+23/03/2023: Resultado Definitivo do Exame de Sanidade Física e Mental
+
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 21/03/2023: Prova Escrita Discursiva
 
@@ -17,9 +20,6 @@
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 13/03/2023: Comissão de Heteroidentificação
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-10/03/2023: COMUNICADO
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 10/03/2023: Link para solicitação de adaptação para o Teste de Aptidão Física  – candidatos com deficiência
