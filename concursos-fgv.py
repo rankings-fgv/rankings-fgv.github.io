@@ -23,14 +23,26 @@ for concurso in json_concursos:
     soup = BeautifulSoup(page.content, "html.parser")
     h1_element = soup.find("h1")
     table_element = soup.find("table")
-    tr_element = table_element.find_all("tr")[1]
-    td_elements = tr_element.find_all("td")
-    td_p_elements = td_elements[1].find_all("p")
-    tmp_concursos[concurso]["nome"] = h1_element.text.strip()[24:]
-    tmp_concursos[concurso]["data"] = datetime.strptime(td_elements[0].text, "%d/%m/%Y")
-    tmp_concursos[concurso]["crc32"] = hex(zlib.crc32(table_element.text.encode()) & 0xffffffff)
-    tmp_concursos[concurso]["texto"] = td_p_elements[0].text if len(td_p_elements) > 0 else td_elements[1].text
+    if table_element is not None:
+        tr_element = table_element.find_all("tr")[1]
+        td_elements = tr_element.find_all("td")
+        td_p_elements = td_elements[1].find_all("p")
+        tmp_data = td_elements[0].text
+        tmp_crc32_element = table_element
+        tmp_texto = td_p_elements[0].text if len(td_p_elements) > 0 else td_elements[1].text
+    else:
+        h3_element = soup.find("h3")
+        div_element = h3_element.find_parent("div")
+        time_element = div_element.find("time")
+        p_element = div_element.find("p")
+        tmp_data = time_element.text
+        tmp_crc32_element = div_element
+        tmp_texto = p_element.text
     #
+    tmp_concursos[concurso]["nome"] = h1_element.text.strip()[24:]
+    tmp_concursos[concurso]["data"] = datetime.strptime(tmp_data, "%d/%m/%Y")
+    tmp_concursos[concurso]["crc32"] = hex(zlib.crc32(tmp_crc32_element.text.encode()) & 0xffffffff)
+    tmp_concursos[concurso]["texto"] = tmp_texto
     if args.token:
         if json_concursos[concurso] != tmp_concursos[concurso]["crc32"]:
             message = requests.utils.quote("A página do Concurso Público para o(a) {} ({}) foi atualizada\n\n{}: {}\n\nhttps://conhecimento.fgv.br/concursos/{}".format(tmp_concursos[concurso]["nome"], concurso, tmp_concursos[concurso]["data"].strftime("%d/%m/%Y"), tmp_concursos[concurso]["texto"], concurso))
