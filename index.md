@@ -12,6 +12,9 @@
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 16/03/2023: Edital de Homologação
 
+## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
+16/03/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
+
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 15/03/2023: Resultado Final de Aprovados (específico para candidatos negros)
 
