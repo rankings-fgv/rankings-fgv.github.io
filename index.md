@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-23/03/2023: Resultado Definitivo do Exame de Sanidade Física e Mental
+24/03/2023: Envio de Documentos - Heteroidentificação
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 21/03/2023: Prova Escrita Discursiva
