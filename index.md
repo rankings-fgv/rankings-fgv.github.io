@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
+27/03/2023: Consulta individual - Resultado Preliminar da Heteroidentificação
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 27/03/2023: Solicitação de adaptações para o Teste de Aptidão Física
 
@@ -20,9 +23,6 @@
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 14/03/2023: Resultado Final de Aprovados Retificado (candidatos sub judice) (publicação em Diário Oficial em 14/03/2023)
-
-## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
-13/03/2023: Comissão de Heteroidentificação
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 10/03/2023: Link para solicitação de adaptação para o Teste de Aptidão Física  – candidatos com deficiência
