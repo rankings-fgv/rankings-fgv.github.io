@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-24/03/2023: Envio de Documentos - Heteroidentificação
+27/03/2023: Solicitação de adaptações para o Teste de Aptidão Física
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 21/03/2023: Prova Escrita Discursiva
