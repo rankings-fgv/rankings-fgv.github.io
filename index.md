@@ -3,6 +3,9 @@
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 27/03/2023: Solicitação de adaptações para o Teste de Aptidão Física
 
+## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
+27/03/2023: COMUNICADO
+
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 21/03/2023: Prova Escrita Discursiva
 
@@ -14,9 +17,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 16/03/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
-
-## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
-15/03/2023: Resultado Final de Aprovados (específico para candidatos negros)
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 14/03/2023: Resultado Final de Aprovados Retificado (candidatos sub judice) (publicação em Diário Oficial em 14/03/2023)
