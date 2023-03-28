@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
-27/03/2023: Consulta individual - Resultado Preliminar da Heteroidentificação
+28/03/2023: Interposição de recursos contra o Resultado Preliminar da Heteroidentificação
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 27/03/2023: Solicitação de adaptações para o Teste de Aptidão Física
