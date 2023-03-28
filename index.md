@@ -10,7 +10,7 @@
 28/03/2023: Consulta individual - Resultado Preliminar do Procedimento de Heteroidentificação
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-27/03/2023: Solicitação de adaptações para o Teste de Aptidão Física
+28/03/2023: 1ª Retificação do Edital de Convocação para o Teste de Aptidão Física
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 27/03/2023: COMUNICADO
