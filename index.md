@@ -7,7 +7,7 @@
 29/03/2023: Interposição de recursos contra o Resultado Preliminar do Procedimento de Heteroidentificação
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
-29/03/2023: Resultado Definitivo da Prova Objetiva
+29/03/2023: Edital de convocação para a Avaliação de Títulos
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 28/03/2023: Interposição de recursos contra o Resultado Preliminar da Heteroidentificação
