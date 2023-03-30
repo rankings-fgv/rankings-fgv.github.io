@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+30/03/2023: Comissão de Heteroidentificação
+
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 29/03/2023: Interposição de recursos contra o Resultado Preliminar do Procedimento de Heteroidentificação
 
@@ -11,9 +14,6 @@
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 28/03/2023: Interposição de recursos contra o Resultado Preliminar da Heteroidentificação
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-28/03/2023: 1ª Retificação do Edital de Convocação para o Teste de Aptidão Física
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 28/03/2023: COMUNICADO
