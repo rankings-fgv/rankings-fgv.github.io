@@ -1,5 +1,8 @@
 # Concursos
 
+## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
+31/03/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 30/03/2023: Comissão de Heteroidentificação
 
@@ -14,9 +17,6 @@
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 28/03/2023: Interposição de recursos contra o Resultado Preliminar da Heteroidentificação
-
-## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
-28/03/2023: COMUNICADO
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 27/03/2023: COMUNICADO
