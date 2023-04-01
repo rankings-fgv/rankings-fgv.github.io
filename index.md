@@ -1,10 +1,10 @@
 # Concursos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+01/04/2023: Convocação de candidatos sub judice
+
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 31/03/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-30/03/2023: Comissão de Heteroidentificação
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 29/03/2023: Interposição de recursos contra o Resultado Preliminar do Procedimento de Heteroidentificação
