@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
+05/04/2023: Edital de Convocação - Critério de Desempate
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 01/04/2023: Convocação de candidatos sub judice (atualizado em 04/04/2023)
 
@@ -32,9 +35,6 @@
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 10/03/2023: Link para solicitação de adaptação para o Teste de Aptidão Física  – candidatos com deficiência
-
-## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
-08/03/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
