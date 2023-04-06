@@ -1,7 +1,10 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
+06/04/2023: Envio da documentação para a Avaliação de Títulos
+
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
-06/04/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
+06/04/2023: Envio de documentação para fins de desempate - Jurado
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 01/04/2023: Convocação de candidatos sub judice (atualizado em 05/04/2023)
@@ -14,9 +17,6 @@
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 29/03/2023: Interposição de recursos contra o Resultado Preliminar do Procedimento de Heteroidentificação
-
-## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
-29/03/2023: Edital de convocação para a Avaliação de Títulos
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 28/03/2023: Interposição de recursos contra o Resultado Preliminar da Heteroidentificação
