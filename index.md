@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
-05/04/2023: Edital de Convocação - Critério de Desempate
+06/04/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 01/04/2023: Convocação de candidatos sub judice (atualizado em 05/04/2023)
