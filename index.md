@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+06/04/2023: Consulta individual - Resultado Preliminar do Teste de Aptidão Física
+
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 06/04/2023: Envio da documentação para a Avaliação de Títulos
 
@@ -32,9 +35,6 @@
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 14/03/2023: Resultado Final de Aprovados Retificado (candidatos sub judice) (publicação em Diário Oficial em 14/03/2023)
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-10/03/2023: Link para solicitação de adaptação para o Teste de Aptidão Física  – candidatos com deficiência
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
