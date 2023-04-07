@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+07/04/2023: Envio de documentos - Sindicância de Vida Pregressa e Investigação Social
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 06/04/2023: Consulta individual - Resultado Preliminar do Teste de Aptidão Física
 
@@ -8,9 +11,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 06/04/2023: Envio de documentação para fins de desempate - Jurado
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-01/04/2023: Convocação de candidatos sub judice (atualizado em 05/04/2023)
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 31/03/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
