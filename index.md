@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-10/04/2023: Convocação de candidatos sub judice
+10/04/2023: Consulta ao Local do Exame Psicotécnico
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 10/04/2023: Interposição de recursos contra o Resultado Preliminar do Teste de Aptidão Física
