@@ -1,5 +1,11 @@
 # Concursos
 
+## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
+10/04/2023: Consulta individual - Resultado Preliminar da Avaliação de Títulos
+
+## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
+10/04/2023: Consulta individual - Resultado Preliminar da Avaliação de Títulos
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 10/04/2023: Consulta ao Local do Exame Psicotécnico
 
@@ -14,12 +20,6 @@
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 31/03/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
-
-## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
-29/03/2023: Interposição de recursos contra o Resultado Preliminar do Procedimento de Heteroidentificação
-
-## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
-29/03/2023: Interposição de recursos contra o Resultado Preliminar do Procedimento de Heteroidentificação
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 28/03/2023: Interposição de recursos contra o Resultado Preliminar da Heteroidentificação
