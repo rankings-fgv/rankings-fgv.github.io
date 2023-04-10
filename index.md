@@ -1,10 +1,10 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+10/04/2023: Interposição de recursos contra o Resultado Preliminar do Teste de Aptidão Física
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 07/04/2023: Envio de documentos - Sindicância de Vida Pregressa e Investigação Social
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-06/04/2023: Consulta individual - Resultado Preliminar do Teste de Aptidão Física
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 06/04/2023: Envio da documentação para a Avaliação de Títulos
