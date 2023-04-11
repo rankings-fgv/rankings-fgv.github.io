@@ -1,10 +1,10 @@
 # Concursos
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
-10/04/2023: Consulta individual - Resultado Preliminar da Avaliação de Títulos
+11/04/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação de Títulos
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
-10/04/2023: Consulta individual - Resultado Preliminar da Avaliação de Títulos
+11/04/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação de Títulos
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 10/04/2023: Consulta ao Local do Exame Psicotécnico
