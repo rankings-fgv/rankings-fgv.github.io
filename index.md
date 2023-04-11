@@ -7,7 +7,7 @@
 11/04/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação de Títulos
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-10/04/2023: Consulta ao Local do Exame Psicotécnico
+11/04/2023: COMUNICADO - Sindicância de Vida Pregressa e Investigação Social
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 10/04/2023: Interposição de recursos contra o Resultado Preliminar do Teste de Aptidão Física
