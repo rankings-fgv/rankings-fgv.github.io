@@ -1,7 +1,10 @@
 # Concursos
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
-12/04/2023: Resultado Definitivo da Heteroidentificação
+13/04/2023: Resultado Final de Aprovados (candidatos negros)
+
+## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
+13/04/2023: Resultado Definitivo da Prova Objetiva
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 11/04/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação de Títulos
@@ -20,9 +23,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 06/04/2023: Envio de documentação para fins de desempate - Jurado
-
-## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
-31/03/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 27/03/2023: COMUNICADO
