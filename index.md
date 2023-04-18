@@ -3,11 +3,11 @@
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/04/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
+## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
+18/04/2023: Relação de Candidatos - Correção da Prova Escrita Discursiva
+
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 13/04/2023: Resultado Final de Aprovados (candidatos negros)
-
-## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
-13/04/2023: Resultado Definitivo da Prova Objetiva
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 11/04/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação de Títulos
