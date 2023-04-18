@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+18/04/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 13/04/2023: Resultado Final de Aprovados (candidatos negros)
 
@@ -29,9 +32,6 @@
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 16/03/2023: Edital de Homologação
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-14/03/2023: Resultado Final de Aprovados Retificado (candidatos sub judice) (publicação em Diário Oficial em 14/03/2023)
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 06/03/2023: Cronograma Previsto
