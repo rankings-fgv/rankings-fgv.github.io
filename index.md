@@ -18,6 +18,9 @@
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 10/04/2023: Interposição de recursos contra o Resultado Preliminar do Teste de Aptidão Física
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+01/04/2023: Nota de Esclarecimento
+
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 27/03/2023: COMUNICADO
 
