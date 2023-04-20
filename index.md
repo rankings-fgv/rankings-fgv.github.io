@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+20/04/2023: Consulta individual - Resultado Preliminar do Procedimento de Heteroidentificação
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/04/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
@@ -14,9 +17,6 @@
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 11/04/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação de Títulos
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-11/04/2023: COMUNICADO - Sindicância de Vida Pregressa e Investigação Social
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 10/04/2023: Interposição de recursos contra o Resultado Preliminar do Teste de Aptidão Física
