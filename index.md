@@ -1,5 +1,11 @@
 # Concursos
 
+## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
+24/04/2023: Resultado Definitivo da Avaliação de Títulos
+
+## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
+24/04/2023: Resultado Definitivo da Avaliação de Títulos
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 24/04/2023: Interposição de recursos contra o Resultado Preliminar do Procedimento de Heteroidentificação
 
@@ -17,12 +23,6 @@
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 13/04/2023: Resultado Final de Aprovados (candidatos negros)
-
-## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
-11/04/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação de Títulos
-
-## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
-11/04/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação de Títulos
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 10/04/2023: Interposição de recursos contra o Resultado Preliminar do Teste de Aptidão Física
