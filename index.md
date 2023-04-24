@@ -6,6 +6,9 @@
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 24/04/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+24/04/2023: Consulta individual - Resultado Preliminar da Prova Objetiva
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/04/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
@@ -23,9 +26,6 @@
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 10/04/2023: Interposição de recursos contra o Resultado Preliminar do Teste de Aptidão Física
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-01/04/2023: Nota de Esclarecimento
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 27/03/2023: COMUNICADO
