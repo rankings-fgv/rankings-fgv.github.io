@@ -4,7 +4,7 @@
 24/04/2023: Interposição de recursos contra o Resultado Preliminar do Procedimento de Heteroidentificação
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
-24/04/2023: Espelho de correção - Prova Discursiva
+24/04/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/04/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
