@@ -3,6 +3,9 @@
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 26/04/2023: Interposição de recursos contra o Resultado Preliminar do Teste de Aptidão Física
 
+## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
+26/04/2023: Resultado Definitivo da Prova Objetiva
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 25/04/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
 
@@ -35,9 +38,6 @@
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 16/03/2023: Edital de Homologação
-
-## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
-06/03/2023: Cronograma Previsto
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
