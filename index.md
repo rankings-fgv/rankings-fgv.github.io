@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-25/04/2023: Acesso aos vídeos - Teste de Aptidão Física (candidatos inaptos)
+26/04/2023: Interposição de recursos contra o Resultado Preliminar do Teste de Aptidão Física
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 25/04/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
