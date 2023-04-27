@@ -1,10 +1,10 @@
 # Concursos
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
-26/04/2023: Resultado Final de Aprovados (específico para candidatos negros)
+27/04/2023: Edital de Homologação
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
-26/04/2023: Resultado Final de Aprovados (específico para candidatos negros)
+27/04/2023: Edital de Homologação
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 26/04/2023: Interposição de recursos contra o Resultado Preliminar do Teste de Aptidão Física
