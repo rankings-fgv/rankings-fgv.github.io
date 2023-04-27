@@ -1,5 +1,11 @@
 # Concursos
 
+## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
+26/04/2023: Resultado Final de Aprovados (específico para candidatos negros)
+
+## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
+26/04/2023: Resultado Final de Aprovados (específico para candidatos negros)
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 26/04/2023: Interposição de recursos contra o Resultado Preliminar do Teste de Aptidão Física
 
@@ -8,12 +14,6 @@
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 25/04/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
-
-## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
-24/04/2023: Resultado Definitivo da Avaliação de Títulos
-
-## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
-24/04/2023: Resultado Definitivo da Avaliação de Títulos
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 24/04/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
