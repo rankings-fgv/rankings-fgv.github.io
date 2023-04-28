@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+28/04/2023: Resultado Definitivo do Teste de Aptidão Física
+
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 27/04/2023: Edital de Homologação
 
@@ -26,9 +29,6 @@
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 13/04/2023: Resultado Final de Aprovados (candidatos negros)
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-10/04/2023: Interposição de recursos contra o Resultado Preliminar do Teste de Aptidão Física
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 27/03/2023: COMUNICADO
