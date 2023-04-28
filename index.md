@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-28/04/2023: Resultado Definitivo do Teste de Aptidão Física
+28/04/2023: Edital de convocação para a Heteroidentificação
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 28/04/2023: Consulta individual - Resultado Preliminar da Prova Escrita Discursiva
