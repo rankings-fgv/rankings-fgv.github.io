@@ -3,6 +3,9 @@
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 28/04/2023: Resultado Definitivo do Teste de Aptidão Física
 
+## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
+28/04/2023: Consulta individual - Resultado Preliminar da Prova Escrita Discursiva
+
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 27/04/2023: Edital de Homologação
 
@@ -23,9 +26,6 @@
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/04/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
-
-## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
-18/04/2023: Relação de Candidatos - Correção da Prova Escrita Discursiva
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 13/04/2023: Resultado Final de Aprovados (candidatos negros)
