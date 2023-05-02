@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-28/04/2023: Resultado Preliminar do Exame Psicotécnico
+02/05/2023: Interposição de recursos contra o Resultado Preliminar do Exame Psicotécnico
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 28/04/2023: Edital de convocação para a Heteroidentificação
