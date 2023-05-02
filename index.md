@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-02/05/2023: Interposição de recursos contra o Resultado Preliminar do Exame Psicotécnico
+02/05/2023: Notificação - Sindicância de Vida Pregressa e Investigação Social
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 02/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Discursiva
