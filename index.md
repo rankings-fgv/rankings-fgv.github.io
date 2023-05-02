@@ -3,11 +3,11 @@
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 02/05/2023: Interposição de recursos contra o Resultado Preliminar do Exame Psicotécnico
 
+## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
+02/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Discursiva
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 28/04/2023: Edital de convocação para a Heteroidentificação
-
-## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
-28/04/2023: Consulta individual - Resultado Preliminar da Prova Escrita Discursiva
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 27/04/2023: Edital de Homologação
