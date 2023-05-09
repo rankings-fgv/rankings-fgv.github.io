@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
+09/05/2023: COMUNICADO
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 02/05/2023: Notificação - Sindicância de Vida Pregressa e Investigação Social
 
@@ -20,9 +23,6 @@
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 25/04/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
-
-## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
-24/04/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/04/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
