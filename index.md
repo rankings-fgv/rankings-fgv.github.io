@@ -4,7 +4,7 @@
 12/05/2023: Consulta individual - Resultado Preliminar da Sindicância da Vida Pregressa e Investigação Social
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
-09/05/2023: COMUNICADO
+12/05/2023: Resultado Definitivo da Prova Objetiva e Discursiva
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 02/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Discursiva
