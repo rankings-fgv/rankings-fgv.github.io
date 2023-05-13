@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-12/05/2023: Consulta individual - Resultado Preliminar da Sindicância da Vida Pregressa e Investigação Social
+13/05/2023: Interposição de recursos contra o Resultado Preliminar da Sindicância da Vida Pregressa e Investigação Social
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 12/05/2023: Resultado Definitivo da Prova Objetiva e Discursiva
