@@ -6,9 +6,6 @@
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 13/05/2023: Interposição de recursos contra o Resultado Preliminar da Sindicância da Vida Pregressa e Investigação Social
 
-## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
-13/05/2023: Edital de convocação para a Heteroidentificação
-
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 02/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Discursiva
 
@@ -38,6 +35,9 @@
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 16/03/2023: Edital de Homologação
+
+## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
+14/02/2023: Cronograma Previsto (atualizado em 15/05/2023)
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
