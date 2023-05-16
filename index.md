@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
+16/05/2023: COMUNICADO
+
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 16/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Discursiva
 
@@ -41,6 +44,3 @@
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
-
-## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
-17/01/2023: Edital de Homologação
