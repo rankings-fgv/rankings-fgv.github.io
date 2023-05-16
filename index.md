@@ -3,6 +3,9 @@
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 16/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Discursiva
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+16/05/2023: Resultado Preliminar da Prova Objetiva (Auditor-Fiscal)
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 13/05/2023: Interposição de recursos contra o Resultado Preliminar da Sindicância da Vida Pregressa e Investigação Social
 
@@ -20,9 +23,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 26/04/2023: Resultado Definitivo da Prova Objetiva
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-25/04/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/04/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
