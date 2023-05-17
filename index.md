@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
+17/05/2023: COMUNICADO
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 17/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva (Auditor-Fiscal) 
 
@@ -23,9 +26,6 @@
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 27/04/2023: Edital de Homologação
-
-## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
-26/04/2023: Resultado Definitivo da Prova Objetiva
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/04/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
