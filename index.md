@@ -4,7 +4,7 @@
 17/05/2023: COMUNICADO
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-17/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Objetiva (Auditor-Fiscal) 
+17/05/2023: Resultado Definitivo da Prova Objetiva (Analista-Tributário)
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 16/05/2023: COMUNICADO
