@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+18/05/2023: Resultado Definitivo do Procedimento de Heteroidentificação
+
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 18/05/2023: Consulta individual - Resultado Preliminar da Prova Discursiva
 
@@ -11,9 +14,6 @@
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 16/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Discursiva
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-13/05/2023: Interposição de recursos contra o Resultado Preliminar da Sindicância da Vida Pregressa e Investigação Social
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 02/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Discursiva
