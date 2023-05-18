@@ -4,7 +4,7 @@
 18/05/2023: Resultado Definitivo do Procedimento de Heteroidentificação
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
-18/05/2023: Consulta individual - Resultado Preliminar da Prova Discursiva
+18/05/2023:  Prova Discursiva
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 17/05/2023: Resultado Definitivo da Prova Objetiva (Analista-Tributário)
