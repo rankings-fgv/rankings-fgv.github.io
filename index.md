@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
+18/05/2023: Consulta individual - Resultado Preliminar da Prova Discursiva
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 17/05/2023: Resultado Definitivo da Prova Objetiva (Analista-Tributário)
 
@@ -35,9 +38,6 @@
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 16/03/2023: Edital de Homologação
-
-## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
-06/03/2023: Cronograma Previsto (atualizado em 17/05/2023)
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 14/02/2023: Cronograma Previsto (atualizado em 15/05/2023)
