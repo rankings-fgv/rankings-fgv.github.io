@@ -1,10 +1,10 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
+19/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 18/05/2023: Resultado Definitivo do Procedimento de Heteroidentificação
-
-## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
-18/05/2023:  Prova Discursiva
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 18/05/2023: COMUNICADO - Cumprimento de Liminar
