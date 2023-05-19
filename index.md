@@ -15,9 +15,6 @@
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 16/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Discursiva
 
-## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
-02/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Discursiva
-
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 28/04/2023: Edital de convocação para a Heteroidentificação
 
@@ -38,6 +35,9 @@
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 16/03/2023: Edital de Homologação
+
+## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
+06/03/2023: Cronograma Previsto (retificado em 19/05/2023)
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 14/02/2023: Cronograma Previsto (atualizado em 15/05/2023)
