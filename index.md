@@ -7,7 +7,7 @@
 18/05/2023:  Prova Discursiva
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-17/05/2023: Resultado Definitivo da Prova Objetiva (Analista-Tributário)
+18/05/2023: COMUNICADO - Cumprimento de Liminar
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 16/05/2023: COMUNICADO
