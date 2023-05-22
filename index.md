@@ -1,8 +1,5 @@
 # Concursos
 
-## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
-19/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
-
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 18/05/2023: Resultado Definitivo do Procedimento de Heteroidentificação
 
@@ -38,6 +35,9 @@
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 06/03/2023: Cronograma Previsto (retificado em 19/05/2023)
+
+## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
+06/03/2023: Cronograma Previsto (atualizado em 17/05/2023)
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 14/02/2023: Cronograma Previsto (atualizado em 15/05/2023)
