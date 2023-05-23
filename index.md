@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+23/05/2023: COMUNICADO - Cumprimento de Liminar
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 18/05/2023: Resultado Definitivo do Procedimento de Heteroidentificação
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-18/05/2023: COMUNICADO - Cumprimento de Liminar
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 16/05/2023: COMUNICADO
