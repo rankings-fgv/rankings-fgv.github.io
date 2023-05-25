@@ -3,6 +3,9 @@
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 25/05/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
+## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
+25/05/2023: Consulta individual - Resultado Preliminar da Heteroidentificação
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 23/05/2023: COMUNICADO - Cumprimento de Liminar
 
@@ -38,9 +41,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 06/03/2023: Cronograma Previsto (atualizado em 17/05/2023)
-
-## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
-14/02/2023: Cronograma Previsto (atualizado em 15/05/2023)
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
