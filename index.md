@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+25/05/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 23/05/2023: COMUNICADO - Cumprimento de Liminar
 
@@ -20,9 +23,6 @@
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 27/04/2023: Edital de Homologação
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-18/04/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 13/04/2023: Resultado Final de Aprovados (candidatos negros)
