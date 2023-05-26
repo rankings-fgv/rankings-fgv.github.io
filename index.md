@@ -3,11 +3,11 @@
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 26/05/2023: Consulta individual - Resultado Preliminar da Avaliação de Títulos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+26/05/2023: Resultado Definitivo da Prova Objetiva (Auditor-Fiscal)
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 25/05/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-23/05/2023: COMUNICADO - Cumprimento de Liminar
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 18/05/2023: Resultado Definitivo do Procedimento de Heteroidentificação
