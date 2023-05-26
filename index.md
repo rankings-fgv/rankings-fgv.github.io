@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
-26/05/2023: Interposição de recursos contra o Resultado Preliminar da Heteroidentificação 
+26/05/2023: Consulta individual - Resultado Preliminar da Avaliação de Títulos
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 25/05/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
