@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
+29/05/2023: COMUNICADO - Inclusão de candidato sub judice
+
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 29/05/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação de Títulos
 
@@ -29,9 +32,6 @@
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 27/04/2023: Edital de Homologação
-
-## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
-13/04/2023: Resultado Final de Aprovados (candidatos negros)
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 27/03/2023: COMUNICADO
