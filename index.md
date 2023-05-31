@@ -1,5 +1,8 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+31/05/2023: COMUNICADO - Recursos
+
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 29/05/2023: COMUNICADO - Inclusão de candidato sub judice
 
@@ -8,9 +11,6 @@
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 26/05/2023: Consulta individual - Resultado Definitivo da Prova Escrita Discursiva
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-26/05/2023: Resultado Definitivo da Prova Objetiva (Auditor-Fiscal)
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 25/05/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
