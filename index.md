@@ -1,13 +1,13 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
+01/06/2023: Membros da Banca de Heteroidentificação
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 31/05/2023: COMUNICADO - Recursos
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 29/05/2023: COMUNICADO - Inclusão de candidato sub judice
-
-## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
-29/05/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação de Títulos
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 26/05/2023: Consulta individual - Resultado Definitivo da Prova Escrita Discursiva
