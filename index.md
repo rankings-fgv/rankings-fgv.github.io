@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+02/06/2023: Resultado Definitivo do Teste de Aptidão Física
+
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 01/06/2023: Membros da Banca de Heteroidentificação
 
@@ -14,9 +17,6 @@
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 25/05/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-18/05/2023: Resultado Definitivo do Procedimento de Heteroidentificação
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 16/05/2023: COMUNICADO
