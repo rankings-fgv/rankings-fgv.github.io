@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-02/06/2023: Resultado Definitivo do Teste de Aptidão Física
+02/06/2023: Resultado Definitivo da Sindicância da Vida Pregressa e Investigação Social
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 01/06/2023: Membros da Banca de Heteroidentificação
