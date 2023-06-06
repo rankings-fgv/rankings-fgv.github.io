@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+06/06/2023: Resultado Final de Aprovados (específico para candidatos Sub Judice)
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 06/06/2023: COMUNICADO
 
@@ -8,9 +11,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 06/06/2023: Resultado Definitivo da Heteroidentificação
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-02/06/2023: Resultado Definitivo da Sindicância da Vida Pregressa e Investigação Social
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 31/05/2023: COMUNICADO - Recursos
