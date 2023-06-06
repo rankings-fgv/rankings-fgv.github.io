@@ -3,20 +3,20 @@
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 06/06/2023: COMUNICADO
 
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-02/06/2023: Resultado Definitivo da Sindicância da Vida Pregressa e Investigação Social
+## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
+06/06/2023: COMUNICADO - Avaliação Biopsicossocial
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
-01/06/2023: Membros da Banca de Heteroidentificação
+06/06/2023: Resultado Definitivo da Heteroidentificação
+
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+02/06/2023: Resultado Definitivo da Sindicância da Vida Pregressa e Investigação Social
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 31/05/2023: COMUNICADO - Recursos
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 29/05/2023: COMUNICADO - Inclusão de candidato sub judice
-
-## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
-26/05/2023: Consulta individual - Resultado Definitivo da Prova Escrita Discursiva
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 25/05/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
