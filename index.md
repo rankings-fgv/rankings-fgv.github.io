@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+06/06/2023: COMUNICADO
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 02/06/2023: Resultado Definitivo da Sindicância da Vida Pregressa e Investigação Social
 
@@ -23,9 +26,6 @@
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 16/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Discursiva
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-28/04/2023: Edital de convocação para a Heteroidentificação
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 27/04/2023: Edital de Homologação
