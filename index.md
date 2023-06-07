@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-06/06/2023: Resultado Final de Aprovados (específico para candidatos Sub Judice)
+07/06/2023: Edital de Homologação
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 06/06/2023: COMUNICADO
