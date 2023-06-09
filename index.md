@@ -6,6 +6,9 @@
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 09/06/2023: Resultado Definitivo da Avaliação de Títulos
 
+## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
+09/06/2023: Edital de Convocação para a Avaliação de Títulos
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 07/06/2023: Edital de Homologação
 
@@ -38,9 +41,6 @@
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 16/03/2023: Edital de Homologação
-
-## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
-06/03/2023: Cronograma Previsto (atualizado em 17/05/2023)
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
