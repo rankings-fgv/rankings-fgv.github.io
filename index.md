@@ -1,10 +1,10 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+09/06/2023: Interposição de recursos contra o Resultado Preliminar da Heteroidentificação
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 07/06/2023: Edital de Homologação
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-07/06/2023: Consulta individual - Resultado Preliminar da Heteroidentificação
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 06/06/2023: COMUNICADO - Avaliação Biopsicossocial
