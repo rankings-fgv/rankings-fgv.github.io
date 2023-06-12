@@ -1,8 +1,5 @@
 # Concursos
 
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-09/06/2023: COMUNICADO
-
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 09/06/2023: Resultado Definitivo da Avaliação de Títulos
 
@@ -11,6 +8,9 @@
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 07/06/2023: Edital de Homologação
+
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+07/06/2023: Resultado Preliminar da Heteroidentificação (retificado em 12/06/2023)
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 06/06/2023: COMUNICADO - Avaliação Biopsicossocial
