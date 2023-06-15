@@ -1,10 +1,10 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
+15/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 13/06/2023: Interposição de recursos contra o Resultado Preliminar da Heteroidentificação Retificado
-
-## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
-09/06/2023: Resultado Definitivo da Avaliação de Títulos
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 09/06/2023: Edital de Convocação para a Avaliação de Títulos
