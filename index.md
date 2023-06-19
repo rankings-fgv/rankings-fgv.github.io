@@ -1,5 +1,8 @@
 # Concursos
 
+## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
+19/06/2023: COMUNICADO
+
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 16/06/2023: Envio da documentação para a Avaliação de Títulos
 
@@ -26,9 +29,6 @@
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 16/05/2023: COMUNICADO
-
-## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
-16/05/2023: Interposição de recursos contra o Resultado Preliminar da Prova Escrita Discursiva
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 27/04/2023: Edital de Homologação
