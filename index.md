@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
+19/06/2023: COMUNICADO
+
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 19/06/2023: COMUNICADO
 
@@ -29,9 +32,6 @@
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 16/05/2023: COMUNICADO
-
-## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
-27/04/2023: Edital de Homologação
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 27/04/2023: Edital de Homologação
