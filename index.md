@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
+21/06/2023: COMUNICADO - Inclusão de candidato sub judice
+
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 19/06/2023: COMUNICADO
 
@@ -23,9 +26,6 @@
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 31/05/2023: COMUNICADO - Recursos
-
-## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
-29/05/2023: COMUNICADO - Inclusão de candidato sub judice
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 25/05/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
