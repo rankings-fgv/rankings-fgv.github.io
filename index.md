@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+22/06/2023: Resultado Definitivo da Heteroidentificação
+
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 21/06/2023: COMUNICADO - Inclusão de candidato sub judice
 
@@ -17,9 +20,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 15/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-13/06/2023: Interposição de recursos contra o Resultado Preliminar da Heteroidentificação Retificado
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 06/06/2023: COMUNICADO - Avaliação Biopsicossocial
