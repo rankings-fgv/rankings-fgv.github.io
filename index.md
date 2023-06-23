@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-22/06/2023: Resultado Definitivo da Heteroidentificação
+23/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 21/06/2023: COMUNICADO - Inclusão de candidato sub judice
