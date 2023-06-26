@@ -1,5 +1,8 @@
 # Concursos
 
+## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
+26/06/2023: Edital de convocação para a Perícia Médica
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 26/06/2023: Espelho de correção - Prova Discursiva
 
@@ -10,9 +13,6 @@
 21/06/2023: COMUNICADO - Inclusão de candidato sub judice
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
-19/06/2023: COMUNICADO
-
-## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 19/06/2023: COMUNICADO
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
