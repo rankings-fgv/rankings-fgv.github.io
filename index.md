@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-26/06/2023: COMUNICADO - Cumprimento de Liminar
+26/06/2023: Espelho de correção - Prova Discursiva
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 23/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
