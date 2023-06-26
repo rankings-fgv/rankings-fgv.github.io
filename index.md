@@ -1,5 +1,8 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+26/06/2023: COMUNICADO - Cumprimento de Liminar
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 23/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
 
@@ -23,9 +26,6 @@
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 06/06/2023: COMUNICADO - Avaliação Biopsicossocial
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-31/05/2023: COMUNICADO - Recursos
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 25/05/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
