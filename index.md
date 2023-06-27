@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+27/06/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
+
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 26/06/2023: Edital de convocação para a Perícia Médica
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-26/06/2023: Espelho de correção - Prova Discursiva
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 23/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
