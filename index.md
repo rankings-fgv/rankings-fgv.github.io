@@ -1,13 +1,13 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+29/06/2023: Comissão de Heteroidentificação
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 28/06/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva (Analista-Tributário - Questão 1)
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 27/06/2023: Resposta aos recursos contra o Resultado Preliminar da Prova Escrita Discursiva
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-23/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 21/06/2023: COMUNICADO - Inclusão de candidato sub judice
