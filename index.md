@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
+06/07/2023: COMUNICADO - Inclusão de candidato sub judice
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 06/07/2023: COMUNICADO
 
@@ -8,9 +11,6 @@
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 29/06/2023: Comissão de Heteroidentificação
-
-## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
-21/06/2023: COMUNICADO - Inclusão de candidato sub judice
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 19/06/2023: COMUNICADO
