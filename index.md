@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+07/07/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva (Analista-Tributário - Questão 1) - após retificação
+
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 06/07/2023: COMUNICADO - Inclusão de candidato sub judice
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-06/07/2023: COMUNICADO
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 30/06/2023: COMUNICADO
