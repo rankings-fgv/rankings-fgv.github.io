@@ -1,13 +1,13 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+17/07/2023: COMUNICADO - Cumprimento de Liminar
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 14/07/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 11/07/2023: COMUNICADO
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-07/07/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva (Analista-Tributário - Questão 1) - após retificação
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 06/07/2023: COMUNICADO - Inclusão de candidato sub judice
