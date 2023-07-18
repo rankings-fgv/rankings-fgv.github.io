@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
+18/07/2023: Consulta individual - Resultado Preliminar da Prova Oral
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 17/07/2023: COMUNICADO - Cumprimento de Liminar
 
@@ -17,9 +20,6 @@
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 19/06/2023: COMUNICADO
-
-## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
-16/06/2023: Envio da documentação para a Avaliação de Títulos
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 15/06/2023: COMUNICADO
