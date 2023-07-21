@@ -1,5 +1,8 @@
 # Concursos
 
+## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
+21/07/2023: Envio de documentos complementares – Avaliação Biopsicossocial
+
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 19/07/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
 
@@ -26,9 +29,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 15/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
-
-## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
-06/06/2023: COMUNICADO - Avaliação Biopsicossocial
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 16/05/2023: COMUNICADO
