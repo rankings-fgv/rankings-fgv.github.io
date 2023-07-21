@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
+21/07/2023: COMUNICADO
+
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 21/07/2023: Envio de documentos complementares – Avaliação Biopsicossocial
 
@@ -29,9 +32,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 15/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
-
-## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
-16/05/2023: COMUNICADO
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 27/04/2023: Edital de Homologação
