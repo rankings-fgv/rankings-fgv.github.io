@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
+21/07/2023: COMUNICADO - Reserva de vaga - sub judice
+
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 21/07/2023: COMUNICADO
 
@@ -17,9 +20,6 @@
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 14/07/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
-
-## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
-06/07/2023: COMUNICADO - Inclusão de candidato sub judice
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 29/06/2023: Comissão de Heteroidentificação
