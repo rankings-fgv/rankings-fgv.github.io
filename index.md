@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
+26/07/2023: Consulta individual - Resultado Preliminar da Avaliação de Títulos
+
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 21/07/2023: COMUNICADO - Reserva de vaga - sub judice
 
@@ -11,9 +14,6 @@
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 19/07/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
-
-## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
-19/07/2023: Interposição de recursos contra o Resultado Preliminar da Prova Oral
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 17/07/2023: COMUNICADO - Cumprimento de Liminar
