@@ -1,13 +1,13 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
+27/07/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação de Títulos
+
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 26/07/2023: Edital de Homologação
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 26/07/2023: Resultado Final de Aprovados Retificado - Candidatos Sub Judice
-
-## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
-26/07/2023: Consulta individual - Resultado Preliminar da Avaliação de Títulos
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 21/07/2023: Envio de documentos complementares – Avaliação Biopsicossocial
