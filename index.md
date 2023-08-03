@@ -1,5 +1,8 @@
 # Concursos
 
+## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
+03/08/2023: Resultado Definitivo da Perícia Médica
+
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 27/07/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação de Títulos
 
@@ -11,9 +14,6 @@
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 21/07/2023: Envio de documentos complementares – Avaliação Biopsicossocial
-
-## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
-19/07/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 17/07/2023: COMUNICADO - Cumprimento de Liminar
