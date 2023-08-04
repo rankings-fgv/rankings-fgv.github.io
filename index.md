@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
+04/08/2023: Resultado Definitivo da Heteroidentificação
+
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 03/08/2023: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
 
@@ -8,9 +11,6 @@
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 03/08/2023: Resultado Definitivo da Perícia Médica
-
-## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
-27/07/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação de Títulos
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 26/07/2023: Edital de Homologação
