@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+04/08/2023: Edital de convocação complementar para o Teste de Aptidão Física
+
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 04/08/2023: Resultado Definitivo da Heteroidentificação
 
@@ -26,9 +29,6 @@
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 14/07/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-29/06/2023: Comissão de Heteroidentificação
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 15/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
