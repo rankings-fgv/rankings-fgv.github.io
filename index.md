@@ -3,6 +3,9 @@
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 07/08/2023: COMUNICADO - Inclusão - Sub Judice
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+07/08/2023: Edital de convocação para a Pesquisa de Vida Pregressa
+
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 04/08/2023: Resultado Definitivo da Heteroidentificação
 
@@ -23,9 +26,6 @@
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 21/07/2023: Envio de documentos complementares – Avaliação Biopsicossocial
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-17/07/2023: COMUNICADO - Cumprimento de Liminar
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 14/07/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
