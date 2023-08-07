@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-04/08/2023: Edital de convocação complementar para o Teste de Aptidão Física
+07/08/2023: COMUNICADO - Inclusão - Sub Judice
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 04/08/2023: Resultado Definitivo da Heteroidentificação
