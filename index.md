@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+09/08/2023: 1ª Retificação para a Entrevista de Heteroidentificação
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 07/08/2023: COMUNICADO - Inclusão - Sub Judice
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-07/08/2023: Edital de convocação para a Pesquisa de Vida Pregressa
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 04/08/2023: Resultado Definitivo da Heteroidentificação
