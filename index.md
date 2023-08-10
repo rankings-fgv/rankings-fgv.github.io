@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+10/08/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 10/08/2023: COMUNICADO - Inclusão - Sub Judice
 
@@ -26,9 +29,6 @@
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 21/07/2023: Envio de documentos complementares – Avaliação Biopsicossocial
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-14/07/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 15/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
