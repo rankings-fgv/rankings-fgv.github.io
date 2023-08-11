@@ -1,5 +1,8 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+11/08/2023: 2ª Retificação para a Entrevista de Heteroidentificação
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 10/08/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
@@ -8,9 +11,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 09/08/2023: Resultado Final de Aprovados (específico para candidatos negros)
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-09/08/2023: Comunicado - Pesquisa de Vida Pregressa
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
 03/08/2023: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
