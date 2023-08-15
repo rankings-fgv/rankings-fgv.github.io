@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-11/08/2023: 2ª Retificação para a Entrevista de Heteroidentificação
+15/08/2023: Envio de documentação para a Pesquisa de Vida Pregressa
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 10/08/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
