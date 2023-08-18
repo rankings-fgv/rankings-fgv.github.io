@@ -1,10 +1,10 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+18/08/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 15/08/2023: Envio de documentação para a Pesquisa de Vida Pregressa
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-10/08/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 10/08/2023: COMUNICADO - Inclusão - Sub Judice
