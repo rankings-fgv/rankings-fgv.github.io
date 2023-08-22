@@ -1,13 +1,13 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+22/08/2023: COMUNICADO - Inclusão - Sub Judice
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/08/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 15/08/2023: Envio de documentação para a Pesquisa de Vida Pregressa
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-10/08/2023: COMUNICADO - Inclusão - Sub Judice
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 09/08/2023: Resultado Final de Aprovados (específico para candidatos negros)
