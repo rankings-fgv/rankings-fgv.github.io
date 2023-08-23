@@ -6,9 +6,6 @@
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/08/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-15/08/2023: Envio de documentação para a Pesquisa de Vida Pregressa
-
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 09/08/2023: Resultado Final de Aprovados (específico para candidatos negros)
 
@@ -32,6 +29,9 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 15/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
+
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+31/05/2023: Cronograma Previsto (atualizado em 23/08/2023)
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 27/04/2023: Edital de Homologação
