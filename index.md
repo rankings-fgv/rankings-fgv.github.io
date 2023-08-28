@@ -1,5 +1,8 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+28/08/2023: Resultado Preliminar da Entrevista de Heteroidentificação
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 22/08/2023: COMUNICADO - Inclusão - Sub Judice
 
@@ -29,9 +32,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 15/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-31/05/2023: Cronograma Previsto (atualizado em 23/08/2023)
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 27/04/2023: Edital de Homologação
