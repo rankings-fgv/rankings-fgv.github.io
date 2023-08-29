@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-28/08/2023: Consulta individual - Resultado Preliminar da Entrevista de Heteroidentificação
+29/08/2023: Interposição de recursos contra o Resultado Preliminar da Entrevista de Heteroidentificação
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 22/08/2023: COMUNICADO - Inclusão - Sub Judice
