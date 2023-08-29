@@ -1,13 +1,13 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+29/08/2023: Edital de Convocação para a Perícia Médica (candidatos sub judice)
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 29/08/2023: Resultado do Procedimento de Heteroidentificação - Sub Judice
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 29/08/2023: Interposição de recursos contra o Resultado Preliminar da Entrevista de Heteroidentificação
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-18/08/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 09/08/2023: Resultado Final de Aprovados (específico para candidatos negros)
