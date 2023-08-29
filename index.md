@@ -1,10 +1,10 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+29/08/2023: Resultado do Procedimento de Heteroidentificação - Sub Judice
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 29/08/2023: Interposição de recursos contra o Resultado Preliminar da Entrevista de Heteroidentificação
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-22/08/2023: COMUNICADO - Inclusão - Sub Judice
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/08/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
