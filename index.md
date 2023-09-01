@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-31/08/2023: Consulta individual - Resultado Preliminar da Pesquisa de Vida Pregressa
+01/09/2023: Interposição de recursos contra o Resultado Preliminar da Pesquisa de Vida Pregressa
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 29/08/2023: Edital de Convocação para a Perícia Médica (candidatos sub judice)
