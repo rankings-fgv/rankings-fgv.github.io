@@ -1,5 +1,8 @@
 # Concursos
 
+## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
+07/09/2023: Resultado do Concurso
+
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 05/09/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva
 
@@ -20,9 +23,6 @@
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 03/08/2023: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
-
-## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
-03/08/2023: Resultado Definitivo da Perícia Médica
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 26/07/2023: Edital de Homologação
