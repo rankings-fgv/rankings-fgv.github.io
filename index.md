@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+11/09/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 07/09/2023: Resultado do Concurso
 
@@ -8,9 +11,6 @@
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 01/09/2023: Interposição de recursos contra o Resultado Preliminar da Pesquisa de Vida Pregressa
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-29/08/2023: Edital de Convocação para a Perícia Médica (candidatos sub judice)
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 29/08/2023: Resultado do Procedimento de Heteroidentificação - Sub Judice
