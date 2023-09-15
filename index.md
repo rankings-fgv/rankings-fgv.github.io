@@ -1,13 +1,13 @@
 # Concursos
 
+## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
+15/09/2023: Homologação do Concurso
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 11/09/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 11/09/2023: Resultado da Prova Objetiva e Discursiva - Sub Judice
-
-## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
-07/09/2023: Resultado do Concurso
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 01/09/2023: Interposição de recursos contra o Resultado Preliminar da Pesquisa de Vida Pregressa
