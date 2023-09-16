@@ -1,5 +1,8 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+16/09/2023: Resultado Definitivo da Perícia Médica
+
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 15/09/2023: Homologação do Concurso
 
@@ -8,9 +11,6 @@
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 11/09/2023: Resultado da Prova Objetiva e Discursiva - Sub Judice
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-01/09/2023: Interposição de recursos contra o Resultado Preliminar da Pesquisa de Vida Pregressa
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 29/08/2023: Resultado do Procedimento de Heteroidentificação - Sub Judice
