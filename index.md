@@ -4,7 +4,7 @@
 18/09/2023: Consulta individual - Resultado Preliminar da Avaliação Biopsicossocial
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-18/09/2023: Resultado Definitivo da Entrevista de Heteroidentificação
+18/09/2023: Resultado Definitivo da Pesquisa de Vida Pregressa
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 15/09/2023: Homologação do Concurso
