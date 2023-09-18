@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-16/09/2023: Resultado Definitivo da Perícia Médica
+18/09/2023: Resultado Definitivo da Entrevista de Heteroidentificação
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 15/09/2023: Homologação do Concurso
