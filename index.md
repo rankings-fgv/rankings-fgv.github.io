@@ -1,5 +1,8 @@
 # Concursos
 
+## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
+18/09/2023: Consulta individual - Resultado Preliminar da Avaliação Biopsicossocial
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 18/09/2023: Resultado Definitivo da Entrevista de Heteroidentificação
 
@@ -41,9 +44,6 @@
 
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 16/03/2023: Edital de Homologação
-
-## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
-06/03/2023: Cronograma Previsto (retificado em 13/09/2023)
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
