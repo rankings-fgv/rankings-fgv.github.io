@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
-18/09/2023: Consulta individual - Resultado Preliminar da Avaliação Biopsicossocial
+19/09/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação Biopsicossocial
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 18/09/2023: COMUNICADO
