@@ -1,5 +1,8 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+20/09/2023: Comissão de Heteroidentificação
+
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 19/09/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação Biopsicossocial
 
@@ -32,9 +35,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 15/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-31/05/2023: Cronograma Previsto (atualizado em 19/09/2023)
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 27/04/2023: Edital de Homologação
