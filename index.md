@@ -1,5 +1,8 @@
 # Concursos
 
+## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
+21/09/2023: Edital de Convocação Complementar para a Avaliação de Títulos - Física
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 20/09/2023: Comissão de Heteroidentificação
 
@@ -11,9 +14,6 @@
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 11/09/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
-
-## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-11/09/2023: Resultado da Prova Objetiva e Discursiva - Sub Judice
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 29/08/2023: Resultado do Procedimento de Heteroidentificação - Sub Judice
