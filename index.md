@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-21/09/2023: Edital de Convocação Complementar para a Avaliação de Títulos - Física
+22/09/2023: Envio da documentação para a Avaliação de Títulos (convocação complementar)
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 20/09/2023: Comissão de Heteroidentificação
