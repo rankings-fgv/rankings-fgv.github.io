@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+22/09/2023: Edital de Convocação para o Curso de Formação Profissional - Auditor-Fiscal da Receita Federal do Brasil
+
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 22/09/2023: Envio da documentação para a Avaliação de Títulos (convocação complementar)
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-20/09/2023: Comissão de Heteroidentificação
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 19/09/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação Biopsicossocial
