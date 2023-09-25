@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+25/09/2023: Matrícula no Curso de Formação Profissional - Analista-Tributário da Receita Federal do Brasil
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 22/09/2023: Resultado Definitivo da Perícia Médica (candidatos sub judice)
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-22/09/2023: Matrícula no Curso de Formação Profissional - Auditor-Fiscal da Receita Federal do Brasil
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 22/09/2023: Envio da documentação para a Avaliação de Títulos (convocação complementar)
