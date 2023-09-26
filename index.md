@@ -3,11 +3,11 @@
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 26/09/2023: COMUNICADO - Cumprimento de Liminar
 
+## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
+26/09/2023: Consulta individual - Resultado Preliminar da Prova Discursiva - Física
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 22/09/2023: Resultado Definitivo da Perícia Médica (candidatos sub judice)
-
-## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-22/09/2023: Envio da documentação para a Avaliação de Títulos (convocação complementar)
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 19/09/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação Biopsicossocial
