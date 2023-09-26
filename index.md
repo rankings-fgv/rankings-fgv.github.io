@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-25/09/2023: Matrícula no Curso de Formação Profissional - Analista-Tributário da Receita Federal do Brasil
+26/09/2023: COMUNICADO - Cumprimento de Liminar
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 22/09/2023: Resultado Definitivo da Perícia Médica (candidatos sub judice)
