@@ -1,10 +1,10 @@
 # Concursos
 
+## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
+28/09/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva - Física
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 27/09/2023: COMUNICADO
-
-## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-26/09/2023: Consulta individual - Resultado Preliminar da Prova Discursiva - Física
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 22/09/2023: Resultado Definitivo da Perícia Médica (candidatos sub judice)
