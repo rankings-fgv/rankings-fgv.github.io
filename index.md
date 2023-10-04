@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-30/09/2023: COMUNICADO - Cumprimento de Liminar
+04/10/2023: COMUNICADO
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 28/09/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva - Física
