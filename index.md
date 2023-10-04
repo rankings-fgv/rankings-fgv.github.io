@@ -7,7 +7,7 @@
 28/09/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva - Física
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-22/09/2023: Resultado Definitivo da Perícia Médica (candidatos sub judice)
+22/09/2023: Resultado Definitivo da Perícia Médica (candidatos sub judice) (atualizado em 04/10/2023)
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 19/09/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação Biopsicossocial
