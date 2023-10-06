@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+06/10/2023: COMUNICADO - Cumprimento de Liminar
+
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 05/10/2023: COMUNICADO
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-04/10/2023: COMUNICADO
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 28/09/2023: Interposição de recursos contra o Resultado Preliminar da Prova Discursiva - Física
