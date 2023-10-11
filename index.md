@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-09/10/2023: Matrícula no Curso de Formação Profissional - Analista-Tributário da Receita Federal do Brasil (2ª convocação) 
+11/10/2023: COMUNICADO
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 05/10/2023: COMUNICADO
