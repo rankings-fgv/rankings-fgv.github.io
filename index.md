@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-11/10/2023: COMUNICADO
+16/10/2023: Solicitação de Atendimento Especial para o Curso de Formação
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 11/10/2023: Edital de Convocação para a Perícia Médica
