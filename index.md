@@ -3,11 +3,11 @@
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 20/10/2023: Resultado Final de Aprovados (específico para candidatos com deficiência)
 
+## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
+20/10/2023: Consulta individual - Resultado Definitivo da Prova Discursiva
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 18/10/2023: COMUNICADO - Cumprimento de Liminar
-
-## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-11/10/2023: Edital de Convocação para a Perícia Médica
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 22/09/2023: Resultado Definitivo da Perícia Médica (candidatos sub judice) (atualizado em 04/10/2023)
