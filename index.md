@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
-20/10/2023: Resultado Definitivo da Avaliação Biopsicossocial
+20/10/2023: Resultado Final de Aprovados (específico para candidatos com deficiência)
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 18/10/2023: COMUNICADO - Cumprimento de Liminar
