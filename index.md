@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+23/10/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 20/10/2023: Resultado Final de Aprovados (específico para candidatos com deficiência)
 
@@ -8,9 +11,6 @@
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 18/10/2023: COMUNICADO - Cumprimento de Liminar
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-22/09/2023: Resultado Definitivo da Perícia Médica (candidatos sub judice) (atualizado em 04/10/2023)
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 15/09/2023: Homologação do Concurso
