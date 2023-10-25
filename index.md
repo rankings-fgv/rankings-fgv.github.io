@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-25/10/2023: COMUNICADO - Retomada do concurso
+25/10/2023: COMUNICADO - Distribuição de Polos - Semana de Integração CFP - Analista-Tributário da Receita Federal do Brasil
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 23/10/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
