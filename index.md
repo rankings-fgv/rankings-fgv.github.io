@@ -1,5 +1,8 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+25/10/2023: COMUNICADO
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 23/10/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
@@ -8,9 +11,6 @@
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 20/10/2023: Consulta individual - Resultado Definitivo da Prova Discursiva
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-18/10/2023: COMUNICADO - Cumprimento de Liminar
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 15/09/2023: Homologação do Concurso
