@@ -1,5 +1,8 @@
 # Concursos
 
+## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
+30/10/2023: Consulta individual - Resultado Preliminar da Avaliação de Títulos
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 27/10/2023: COMUNICADO - Prova Objetiva Final do Curso de Formação Profissional
 
@@ -8,9 +11,6 @@
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 20/10/2023: Resultado Final de Aprovados (específico para candidatos com deficiência)
-
-## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-20/10/2023: Consulta individual - Resultado Definitivo da Prova Discursiva
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 15/09/2023: Homologação do Concurso
