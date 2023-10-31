@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-30/10/2023: Alteração de Exames para a Inspeção Médica
+31/10/2023: Interposição de recursos contra o Resultado Preliminar da Avaliação de Títulos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 27/10/2023: COMUNICADO - Prova Objetiva Final do Curso de Formação Profissional
