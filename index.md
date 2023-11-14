@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-14/11/2023: Gabarito Oficial Preliminar da Prova Objetiva - Curso de Formação Profissional
+14/11/2023: Orientação aos candidatos do concurso da Receita Federal do Brasil nº1
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 09/11/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
