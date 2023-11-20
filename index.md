@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-15/11/2023: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva - Curso de Formação Profissional
+20/11/2023: COMUNICADO - Relação de vagas disponíveis - Analista-Tributário da Receita Federal do Brasil
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 09/11/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
