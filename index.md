@@ -1,13 +1,13 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+21/11/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 20/11/2023: COMUNICADO - Relação de vagas disponíveis - Analista-Tributário da Receita Federal do Brasil
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 09/11/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-23/10/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 20/10/2023: Resultado Final de Aprovados (específico para candidatos com deficiência)
