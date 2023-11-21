@@ -4,7 +4,7 @@
 21/11/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-20/11/2023: COMUNICADO - Relação de vagas disponíveis - Analista-Tributário da Receita Federal do Brasil
+20/11/2023: COMUNICADO - Relação de vagas disponíveis - Analista-Tributário da Receita Federal do Brasil (retificado em 21/11/2023)
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 09/11/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
