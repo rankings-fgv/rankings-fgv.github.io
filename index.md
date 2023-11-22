@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+22/11/2023: Orientação aos candidatos do concurso da Receita Federal do Brasil nº2
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 21/11/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-20/11/2023: COMUNICADO - Relação de vagas disponíveis - Analista-Tributário da Receita Federal do Brasil (retificado em 21/11/2023)
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 09/11/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
