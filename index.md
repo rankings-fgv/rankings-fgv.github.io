@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-22/11/2023: Orientação aos candidatos do concurso da Receita Federal do Brasil nº2
+23/11/2023: Indicação da ordem de preferência do local de lotação
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 21/11/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
