@@ -1,13 +1,13 @@
 # Concursos
 
+## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
+24/11/2023: Resultado Definitivo da Avaliação de Títulos
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 23/11/2023: Indicação da ordem de preferência do local de lotação
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 21/11/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
-
-## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-09/11/2023: Interposição de recursos contra o Resultado Preliminar da Perícia Médica
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 20/10/2023: Resultado Final de Aprovados (específico para candidatos com deficiência)
