@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+28/11/2023: Notificação - Sindicância de Vida Pregressa e Investigação Social
+
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 24/11/2023: Resultado Definitivo da Avaliação de Títulos
 
@@ -22,9 +25,6 @@
 09/08/2023: Resultado Final de Aprovados (específico para candidatos negros)
 
 ## [Senado Federal - Advogado](./senado22-3/) *(senado22/3)*
-03/08/2023: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 03/08/2023: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
