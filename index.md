@@ -1,13 +1,13 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+29/11/2023: Consulta individual - Resultado Preliminar do Curso de Formação
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 28/11/2023: Notificação - Sindicância de Vida Pregressa e Investigação Social
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 24/11/2023: Resultado Definitivo da Avaliação de Títulos
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-23/11/2023: Indicação da ordem de preferência do local de lotação
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 21/11/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
