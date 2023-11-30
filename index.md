@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-29/11/2023: Consulta individual - Resultado Preliminar do Curso de Formação
+30/11/2023: Interposição de recursos contra o Resultado Preliminar do Curso de Formação
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 28/11/2023: Notificação - Sindicância de Vida Pregressa e Investigação Social
