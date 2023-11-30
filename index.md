@@ -3,11 +3,11 @@
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 30/11/2023: Interposição de recursos contra o Resultado Preliminar do Curso de Formação
 
+## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
+30/11/2023: Resultado Final de Aprovados
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 28/11/2023: Notificação - Sindicância de Vida Pregressa e Investigação Social
-
-## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-24/11/2023: Resultado Definitivo da Avaliação de Títulos
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 21/11/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
