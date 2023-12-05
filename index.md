@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+05/12/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 04/12/2023: COMUNICADO - Cumprimento de liminar
 
@@ -8,9 +11,6 @@
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 28/11/2023: Notificação - Sindicância de Vida Pregressa e Investigação Social
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-21/11/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 20/10/2023: Resultado Final de Aprovados (específico para candidatos com deficiência)
