@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-07/12/2023: Orientação aos candidatos do concurso da Receita Federal do Brasil nº3
+11/12/2023: COMUNICADO - Cumprimento de Liminar
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 05/12/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
