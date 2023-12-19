@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-18/12/2023: Resultado Definitivo do Curso de Formação
+19/12/2023: Homologação da Relação de Candidatos Aprovados
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 05/12/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
