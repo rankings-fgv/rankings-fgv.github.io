@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-19/12/2023: COMUNICADO
+26/12/2023: Orientação aos candidatos do concurso da Receita Federal do Brasil nº4
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 05/12/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
