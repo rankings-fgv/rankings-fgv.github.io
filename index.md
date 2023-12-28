@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-26/12/2023: Orientação aos candidatos do concurso da Receita Federal do Brasil nº4
+28/12/2023: Portaria MGI nº 8.639, de 27 de dezembro de 2023
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 05/12/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
