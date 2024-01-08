@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+08/01/2024: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 28/12/2023: Portaria MGI nº 8.639, de 27 de dezembro de 2023
 
@@ -8,9 +11,6 @@
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 30/11/2023: Resultado Final de Aprovados
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-28/11/2023: Notificação - Sindicância de Vida Pregressa e Investigação Social
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 20/10/2023: Resultado Final de Aprovados (específico para candidatos com deficiência)
