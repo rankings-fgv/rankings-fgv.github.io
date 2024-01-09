@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+09/01/2024: Edital de Convocação para o Teste de Aptidão Física
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 08/01/2024: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
 
@@ -17,9 +20,6 @@
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 15/09/2023: Homologação do Concurso
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-29/08/2023: Resultado do Procedimento de Heteroidentificação - Sub Judice
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Conselheiro Substituto](./tcees22-2/) *(tcees22/2)*
 09/08/2023: Resultado Final de Aprovados (específico para candidatos negros)
