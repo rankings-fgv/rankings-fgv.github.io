@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+16/01/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 09/01/2024: Edital de Convocação para o Teste de Aptidão Física
 
@@ -8,9 +11,6 @@
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 28/12/2023: Portaria MGI nº 8.639, de 27 de dezembro de 2023
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-05/12/2023: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 30/11/2023: Resultado Final de Aprovados
