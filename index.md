@@ -1,13 +1,13 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+16/02/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 15/02/2024: Cumprimento de sentença
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 01/02/2024: Resultado Definitivo do Teste de Aptidão Física
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-16/01/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 08/01/2024: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
