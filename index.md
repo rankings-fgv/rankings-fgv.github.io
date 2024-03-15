@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-07/03/2024: Cumprimento de sentença
+15/03/2024: COMUNICADO - Cumprimento de Liminar
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 27/02/2024: Edital de convocação para a Heteroidentificação - Sub Judice
