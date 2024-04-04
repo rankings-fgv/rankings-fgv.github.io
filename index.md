@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+03/04/2024: Edital de convocação para o Teste de Aptidão Física - Candidatos Sub Judice
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/03/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
@@ -8,9 +11,6 @@
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 27/02/2024: Edital de convocação para a Heteroidentificação - Sub Judice
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-08/01/2024: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 30/11/2023: Resultado Final de Aprovados
