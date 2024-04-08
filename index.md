@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-03/04/2024: Edital de convocação para o Teste de Aptidão Física - Candidatos Sub Judice
+08/04/2024: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/03/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
