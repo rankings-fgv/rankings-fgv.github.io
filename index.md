@@ -1,10 +1,10 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+16/04/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 08/04/2024: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-18/03/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 15/03/2024: COMUNICADO - Cumprimento de Liminar
