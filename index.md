@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-15/05/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
+18/06/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 15/05/2024: Resultado Final de Aprovados - Retificado
