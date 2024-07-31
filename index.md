@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-30/07/2024: Gabarito Oficial Preliminar da Prova Objetiva - Curso de Formação Profissional (Aplicação Sub Judice)
+31/07/2024: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva - Curso de Formação Profissional (Aplicação Sub Judice)
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/07/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
