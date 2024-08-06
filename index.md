@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+06/08/2024: COMUNICADO - Cumprimento de Liminar
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 05/08/2024: COMUNICADO
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-31/07/2024: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva - Curso de Formação Profissional (Aplicação Sub Judice)
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 12/07/2024: Resultado Final de Aprovados - Retificado
