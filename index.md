@@ -6,9 +6,6 @@
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 05/08/2024: COMUNICADO
 
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-12/07/2024: Resultado Final de Aprovados - Retificado
-
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 27/02/2024: Edital de convocação para a Heteroidentificação - Sub Judice
 
@@ -35,6 +32,9 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 15/06/2023: Resultado Final de Aprovados (específico para candidatos negros)
+
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+07/06/2023: Edital de Homologação (retificado em 09/08/2024)
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 27/04/2023: Edital de Homologação
