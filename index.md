@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-06/08/2024: COMUNICADO - Cumprimento de Liminar
+12/08/2024: COMUNICADO - Cumprimento de Liminar
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 05/08/2024: COMUNICADO
