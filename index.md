@@ -1,10 +1,10 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+19/08/2024: Portaria GPR 1605, de 15 de agosto de 2024
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 12/08/2024: COMUNICADO - Cumprimento de Liminar
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-05/08/2024: COMUNICADO
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 27/02/2024: Edital de convocação para a Heteroidentificação - Sub Judice
