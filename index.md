@@ -1,5 +1,8 @@
 # Concursos
 
+## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
+27/08/2024: Termo de homologação do edital SEF/CGE nº 01/2022
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 19/08/2024: Portaria GPR 1605, de 15 de agosto de 2024
 
@@ -11,9 +14,6 @@
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 30/11/2023: Resultado Final de Aprovados
-
-## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
-20/10/2023: Resultado Final de Aprovados (específico para candidatos com deficiência)
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 15/09/2023: Homologação do Concurso
