@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Contas do Estado de Goiás](./tcego24/) *(tcego24)*
+25/09/2024: Resultado Final de Aprovados (específico para candidatos com deficiência)
+
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 17/09/2024: COMUNICADO - Cumprimento de Liminar
 
@@ -11,9 +14,6 @@
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 27/08/2024: Termo de homologação do edital SEF/CGE nº 01/2022
-
-## [Tribunal de Contas do Estado de Goiás](./tcego24/) *(tcego24)*
-26/08/2024: COMUNICADO
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 27/02/2024: Edital de convocação para a Heteroidentificação - Sub Judice
