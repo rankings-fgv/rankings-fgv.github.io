@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal de Contas do Estado de Goiás](./tcego24/) *(tcego24)*
-26/09/2024: COMUNICADO
+08/10/2024: COMUNICADO
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 17/09/2024: COMUNICADO - Cumprimento de Liminar
