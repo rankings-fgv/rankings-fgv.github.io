@@ -1,5 +1,8 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+09/10/2024: COMUNICADO - Cumprimento de Liminar
+
 ## [Tribunal de Contas do Estado de Goiás](./tcego24/) *(tcego24)*
 08/10/2024: COMUNICADO
 
@@ -8,9 +11,6 @@
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 12/09/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-05/09/2024: Cumprimento de Liminar
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 27/08/2024: Termo de homologação do edital SEF/CGE nº 01/2022
