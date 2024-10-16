@@ -37,7 +37,7 @@
 26/07/2023: Resultado Final de Aprovados Retificado - Candidatos Sub Judice
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-07/06/2023: Edital de Homologação (retificado em 09/08/2024)
+07/06/2023: Edital de Homologação (retificado em 09/08/2024) (atualizado em 15/10/2024)
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 27/04/2023: Edital de Homologação
