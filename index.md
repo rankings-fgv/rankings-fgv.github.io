@@ -1,5 +1,8 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+11/11/2024: COMUNICADO - Cumprimento de Liminar
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 06/11/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
@@ -8,9 +11,6 @@
 
 ## [Tribunal de Contas do Estado de Goiás](./tcego24/) *(tcego24)*
 15/10/2024: Resultado Final de Aprovados Retificado
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-09/10/2024: COMUNICADO - Cumprimento de Liminar
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 17/09/2024: COMUNICADO - Cumprimento de Liminar
