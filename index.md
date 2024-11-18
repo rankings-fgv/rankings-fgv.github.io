@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-11/11/2024: COMUNICADO - Cumprimento de Liminar
+11/11/2024: COMUNICADO - Cumprimento de Liminar (atualizado em 18/11/2024)
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 06/11/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
