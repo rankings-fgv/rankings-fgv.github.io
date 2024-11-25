@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+25/11/2024: COMUNICADO
+
 ## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
 14/11/2024: Interposição de recursos contra o Resultado Preliminar do Procedimento de Heteroidentificação
 
@@ -17,9 +20,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 17/09/2024: COMUNICADO - Cumprimento de Liminar
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-27/02/2024: Edital de convocação para a Heteroidentificação - Sub Judice
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 30/11/2023: Resultado Final de Aprovados
