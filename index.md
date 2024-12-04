@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
-02/12/2024: Retificação do Resultado Preliminar do Procedimento de Heteroidentificação
+04/12/2024: Requerimento da Entrevista Devolutiva - Exame Psicotécnico
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 25/11/2024: COMUNICADO
