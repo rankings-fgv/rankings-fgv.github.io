@@ -1,13 +1,13 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+06/12/2024: COMUNICADO
+
 ## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
 06/12/2024: Convocação para a Entrevista Devolutiva - Exame Psicotécnico
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 04/12/2024: COMUNICADO
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-11/11/2024: COMUNICADO - Cumprimento de Liminar (atualizado em 18/11/2024)
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 06/11/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
