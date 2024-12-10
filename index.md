@@ -1,10 +1,10 @@
 # Concursos
 
+## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
+10/12/2024: Interposição de recursos contra o Resultado Preliminar do Exame Psicotécnico
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 06/12/2024: COMUNICADO
-
-## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
-06/12/2024: Convocação para a Entrevista Devolutiva - Exame Psicotécnico
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 04/12/2024: COMUNICADO
