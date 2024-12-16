@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+16/12/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 16/12/2024: Prorrogação do Concurso 
 
@@ -23,9 +26,6 @@
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 04/12/2024: COMUNICADO
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-06/11/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 01/11/2024: Edital de Resultado Final de Aprovados - Retificado por Decisão Judicial
