@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
+16/12/2024: Prorrogação do Concurso 
+
 ## [Senado Federal - Analista Legislativo - Registro e Redação Parlamentar](./senado22-2/) *(senado22/2)*
 16/12/2024: Prorrogação do Concurso 
 
@@ -44,9 +47,6 @@
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 26/07/2023: Edital de Homologação
-
-## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
-26/07/2023: Resultado Final de Aprovados Retificado - Candidatos Sub Judice
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 27/03/2023: COMUNICADO
