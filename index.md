@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-17/12/2024: Edital de Convocação para a Pesquisa de Vida Pregressa (2ª Convocação)
+18/12/2024: COMUNICADO - Cumprimento de Liminar
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 16/12/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
