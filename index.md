@@ -1,5 +1,8 @@
 # Concursos
 
+## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
+03/01/2025: Resultado Definitivo do Exame Psicotécnico
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 18/12/2024: COMUNICADO - Cumprimento de Liminar
 
@@ -20,9 +23,6 @@
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 16/12/2024: Prorrogação do concurso
-
-## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
-10/12/2024: Interposição de recursos contra o Resultado Preliminar do Exame Psicotécnico
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 04/12/2024: COMUNICADO
