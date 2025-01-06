@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+06/01/2025: Envio de documentação para a Pesquisa de Vida Pregressa
+
 ## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
 03/01/2025: Resultado Definitivo do Exame Psicotécnico
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-18/12/2024: COMUNICADO - Cumprimento de Liminar
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 16/12/2024: Resultado Final de Aprovados Retificado (candidatos sub judice)
