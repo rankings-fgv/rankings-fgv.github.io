@@ -1,5 +1,8 @@
 # Concursos
 
+## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
+15/01/2025: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 10/01/2025: COMUNICADO - Cumprimento de Liminar
 
@@ -20,9 +23,6 @@
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 16/12/2024: Prorrogação do Concurso 
-
-## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
-16/12/2024: Prorrogação do concurso
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 04/12/2024: COMUNICADO
