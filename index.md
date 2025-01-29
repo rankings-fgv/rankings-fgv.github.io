@@ -1,8 +1,5 @@
 # Concursos
 
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-27/01/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
-
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 15/01/2025: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
 
@@ -53,3 +50,6 @@
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
+
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+27/10/2022: Resultado Final de Aprovados publicado em Diário Oficial em 27 de outubro de 2022
