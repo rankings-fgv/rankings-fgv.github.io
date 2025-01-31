@@ -1,13 +1,13 @@
 # Concursos
 
+## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
+31/01/2025: Resultado Final de Aprovados (específico para candidatos negros)
+
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 15/01/2025: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 10/01/2025: COMUNICADO - Cumprimento de Liminar
-
-## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
-03/01/2025: Resultado Definitivo do Exame Psicotécnico
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 16/12/2024: Prorrogação do Concurso 
