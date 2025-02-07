@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
-31/01/2025: Resultado Final de Aprovados (específico para candidatos negros)
+07/02/2025: Resultado Final e Homologação
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 15/01/2025: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
