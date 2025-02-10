@@ -1,13 +1,13 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+10/02/2025: Resultado Preliminar da Pesquisa de Vida Pregressa (2ª Convocação)
+
 ## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
 07/02/2025: Resultado Final e Homologação
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 15/01/2025: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-10/01/2025: COMUNICADO - Cumprimento de Liminar
 
 ## [Senado Federal - Analista Legislativo - diversas especialidades](./senado22-1/) *(senado22/1)*
 16/12/2024: Prorrogação do Concurso 
