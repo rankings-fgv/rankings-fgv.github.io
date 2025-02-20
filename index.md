@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-11/02/2025: Interposicao de recursos contra o Resultado Preliminar da Pesquisa de Vida Pregressa (2ª Convocação)
+20/02/2025: COMUNICADO - Cumprimento de Liminar
 
 ## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
 07/02/2025: Resultado Final e Homologação
