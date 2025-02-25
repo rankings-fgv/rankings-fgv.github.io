@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-25/05/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
+25/02/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 20/02/2025: COMUNICADO - Cumprimento de Liminar
