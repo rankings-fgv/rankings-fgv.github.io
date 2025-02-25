@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+25/05/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 20/02/2025: COMUNICADO - Cumprimento de Liminar
 
@@ -50,6 +53,3 @@
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-27/10/2022: Resultado Final de Aprovados publicado em Diário Oficial em 27 de outubro de 2022
