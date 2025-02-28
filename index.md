@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-28/02/2025: Resultado Definitivo da Pesquisa de Vida Pregressa (2ª Convocação)
+28/02/2025: Edital de Convocação para o Curso de Formação Profissional - Analista-Tributário da Receita Federal do Brasil
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 25/02/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
