@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-13/03/2025: COMUNICADO - Distribuição de Polos - Semana de Integração CFP
+14/03/2025: COMUNICADO - Prova Objetiva Final do Curso de Formação Profissional
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 25/02/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
