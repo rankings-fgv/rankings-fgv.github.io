@@ -1,8 +1,5 @@
 # Concursos
 
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-25/03/2025: COMUNICADO - Cumprimento de Liminar
-
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 18/03/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
@@ -23,6 +20,9 @@
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 16/12/2024: Prorrogação do Concurso 
+
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+13/12/2024: Cronograma Previsto - 2ª Convocação (atualizado em 03/04/2025)
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 04/12/2024: COMUNICADO
