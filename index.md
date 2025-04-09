@@ -1,5 +1,8 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+09/04/2025: COMUNICADO - Cumprimento de Liminar
+
 ## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
 07/04/2025: Cumprimento de decisão - Inclusão Sub Judice
 
@@ -20,9 +23,6 @@
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 16/12/2024: Prorrogação do Concurso 
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-13/12/2024: Cronograma Previsto - 2ª Convocação (atualizado em 03/04/2025)
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 04/12/2024: COMUNICADO
