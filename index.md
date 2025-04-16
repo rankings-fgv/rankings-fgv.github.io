@@ -1,13 +1,13 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+16/04/2025: COMUNICADO
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 15/04/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
 10/04/2025: Cumprimento de decisão - Convocação Sub Judice
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-09/04/2025: COMUNICADO - Cumprimento de Liminar
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 15/01/2025: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
