@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-15/04/2025: COMUNICADO
+15/04/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
 10/04/2025: Cumprimento de decisão - Convocação Sub Judice
