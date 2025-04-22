@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-16/04/2025: COMUNICADO
+22/04/2025: Gabarito Oficial Preliminar da Prova Objetiva - Curso de Formação Profissional
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 15/04/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
