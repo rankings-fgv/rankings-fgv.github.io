@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-28/04/2025: Orientação aos candidatos
+13/05/2025: Consulta individual - Resultado Preliminar do Curso de Formação
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 15/04/2025: COMUNICADO
