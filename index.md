@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-14/05/2025: Interposição de recursos contra o Resultado Preliminar do Curso de Formação
+15/05/2025: Resultado Definitivo do Curso de Formação Profissional (Aplicação Sub Judice)
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 15/04/2025: COMUNICADO
