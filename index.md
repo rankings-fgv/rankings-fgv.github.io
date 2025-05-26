@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-21/05/2025: Relação de vagas disponíveis Analista-Tributário da Receita Federal do Brasil
+26/05/2025: Indicação da ordem de preferência
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 19/05/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
