@@ -1,5 +1,8 @@
 # Concursos
 
+## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
+30/05/2025: Edital nº 01/035-2025
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 28/05/2025: COMUNICADO
 
@@ -35,9 +38,6 @@
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 17/09/2024: COMUNICADO - Cumprimento de Liminar
-
-## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-30/11/2023: Resultado Final de Aprovados
 
 ## [Secretaria de Estado de Fazenda de Minas Gerais](./sefmg22/) *(sefmg22)*
 15/09/2023: Homologação do Concurso
