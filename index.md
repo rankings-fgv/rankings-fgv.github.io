@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-30/05/2025: Edital nº 01/035-2025
+04/06/2025: Edital de convocação para a Perícia Médica - Sub Judice
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 28/05/2025: COMUNICADO
