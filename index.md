@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+08/06/2025: Indicação da ordem de preferência
+
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 04/06/2025: Edital de convocação para a Perícia Médica - Sub Judice
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-28/05/2025: COMUNICADO
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 19/05/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
