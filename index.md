@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-13/06/2025: Resultado da Perícia Médica - Sub Judice
+25/06/2025: Edital nº 01/038-2025
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 12/06/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
