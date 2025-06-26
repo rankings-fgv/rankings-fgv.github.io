@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
+26/06/2025: Resolução Administrativa TRT13 nº 029/2025
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 26/06/2025: COMUNICADO - Cumprimento de Liminar
 
@@ -26,9 +29,6 @@
 
 ## [Senado Federal - Consultor Legislativo](./senado22-4/) *(senado22/4)*
 16/12/2024: Prorrogação do Concurso 
-
-## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
-04/12/2024: COMUNICADO
 
 ## [Controladoria-Geral do Estado de Santa Catarina](./cgesc22/) *(cgesc22)*
 01/11/2024: Edital de Resultado Final de Aprovados - Retificado por Decisão Judicial
