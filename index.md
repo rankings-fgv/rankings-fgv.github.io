@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+03/07/2025: COMUNICADO
+
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 26/06/2025: Resolução Administrativa TRT13 nº 029/2025
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-26/06/2025: COMUNICADO - Cumprimento de Liminar
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 25/06/2025: Edital nº 01/038-2025
