@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-04/07/2025: Resultado Final de Aprovados (específico para candidatos negros)
+08/07/2025: Orientação aos candidatos do concurso da Receita Federal do Brasil nº 6
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 26/06/2025: Resolução Administrativa TRT13 nº 029/2025
