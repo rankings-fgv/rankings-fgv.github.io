@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-14/07/2025: Homologação da Relação de Candidatos Aprovados
+30/07/2025: Orientação aos candidatos do Concurso da Receita Federal do Brasil nº 7
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 26/06/2025: Resolução Administrativa TRT13 nº 029/2025
