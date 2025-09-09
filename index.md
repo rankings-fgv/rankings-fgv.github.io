@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-19/08/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
+09/09/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 31/07/2025: Orientação aos candidatos do Concurso da Receita Federal do Brasil nº 8
