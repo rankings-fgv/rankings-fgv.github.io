@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-19/09/2025: COMUNICADO - Cumprimento de Liminar
+23/09/2025: Resultado Definitivo da Entrevista de Heteroidentificação (Sub Judice)
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 09/09/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
