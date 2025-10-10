@@ -1,5 +1,8 @@
 # Concursos
 
+## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
+10/10/2025: Ata nº 88, de 9 de outubro de 2025
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 23/09/2025: Resultado Definitivo da Entrevista de Heteroidentificação (Sub Judice)
 
@@ -11,9 +14,6 @@
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 25/06/2025: Edital nº 01/038-2025
-
-## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
-10/04/2025: Cumprimento de decisão - Convocação Sub Judice
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 15/01/2025: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
