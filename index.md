@@ -1,5 +1,8 @@
 # Concursos
 
+## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
+15/10/2025: COMUNICADO
+
 ## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
 10/10/2025: Ata nº 88, de 9 de outubro de 2025
 
@@ -47,9 +50,6 @@
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 26/07/2023: Edital de Homologação
-
-## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
-27/03/2023: COMUNICADO
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
