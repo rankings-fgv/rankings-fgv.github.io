@@ -1,13 +1,13 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+27/10/2025: Resultado da Pesquisa de Vida Pregressa (Sub Judice)
+
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 15/10/2025: COMUNICADO
 
 ## [Assembleia Legislativa do Estado do Tocantins – Policial Legislativo II, Técnico Legislativo e Analista Legislativo](./aleto-1/) *(aleto/1)*
 10/10/2025: Ata nº 88, de 9 de outubro de 2025
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-23/09/2025: Resultado Definitivo da Entrevista de Heteroidentificação (Sub Judice)
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 09/09/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
