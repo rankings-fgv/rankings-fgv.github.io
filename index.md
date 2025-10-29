@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-27/10/2025: Resultado da Pesquisa de Vida Pregressa (Sub Judice)
+29/10/2025: COMUNICADO - Cumprimento de Liminar
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 15/10/2025: COMUNICADO
