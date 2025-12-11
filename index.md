@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+11/12/2025: COMUNICADO - Prova Objetiva Final do Curso de Formação Profissional Sub judice
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 09/12/2025: Resultado Final de Aprovados Retificado (candidatos sub judice)
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-18/11/2025: COMUNICADO - Prova Objetiva Final do Curso de Formação Profissional Sub judice
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 15/10/2025: COMUNICADO
