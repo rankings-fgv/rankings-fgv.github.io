@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+23/01/2026: Resultado Preliminar do Curso de Formação (Sub Judice)
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 13/01/2026: Resultado Final de Aprovados Retificado (candidatos sub judice)
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-23/12/2025: Interposição de recursos contra o Gabarito Oficial Preliminar da Prova Objetiva - Curso de Formação Profissional (Sub Judice)
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 15/10/2025: COMUNICADO
