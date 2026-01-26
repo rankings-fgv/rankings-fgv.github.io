@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-23/01/2026: Resultado Preliminar do Curso de Formação (Sub Judice)
+26/01/2026: Consulta individual - Resultado Preliminar do Curso de Formação (Sub Judice)
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 13/01/2026: Resultado Final de Aprovados Retificado (candidatos sub judice)
