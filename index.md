@@ -1,10 +1,10 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+10/02/2026: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
 30/01/2026: Resultado Definitivo do Curso de Formação (Sub Judice)
-
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-13/01/2026: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 15/10/2025: COMUNICADO
