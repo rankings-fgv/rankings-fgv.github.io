@@ -1,10 +1,10 @@
 # Concursos
 
+## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
+19/02/2026: Resultado Final de Aprovados (específico para candidatos negros)
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 10/02/2026: Resultado Final de Aprovados Retificado (candidatos sub judice)
-
-## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-30/01/2026: Resultado Definitivo do Curso de Formação (Sub Judice)
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 15/10/2025: COMUNICADO
