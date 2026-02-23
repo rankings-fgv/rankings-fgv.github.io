@@ -37,7 +37,7 @@
 01/11/2024: Edital de Resultado Final de Aprovados - Retificado por Decisão Judicial
 
 ## [Tribunal de Contas do Estado de Goiás](./tcego24/) *(tcego24)*
-15/10/2024: Resultado Final de Aprovados Retificado
+15/10/2024: Resultado Final de Aprovados (retificado em 23/02/2026)
 
 ## [Tribunal de Contas do Estado do Espírito Santo - Auditor de Controle Externo](./tcees22-1/) *(tcees22/1)*
 17/09/2024: COMUNICADO - Cumprimento de Liminar
