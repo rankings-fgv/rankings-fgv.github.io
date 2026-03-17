@@ -4,7 +4,7 @@
 12/03/2026: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-19/02/2026: Resultado Final de Aprovados (específico para candidatos negros)
+19/02/2026: Resultado Final de Aprovados (específico para candidatos negros) (retificado em 17/03/2026)
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 15/10/2025: COMUNICADO
