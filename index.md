@@ -1,5 +1,8 @@
 # Concursos
 
+## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
+31/03/2026: Edital nº 01/2026 - Reaproveitamento para redistribuição dos candidatos aprovados no Edital nº 01/2023
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 12/03/2026: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
@@ -14,9 +17,6 @@
 
 ## [Tribunal Regional do Trabalho - 13ª Região](./trt13/) *(trt13)*
 26/06/2025: Resolução Administrativa TRT13 nº 029/2025
-
-## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-25/06/2025: Edital nº 01/038-2025
 
 ## [Senado Federal - Técnico Legislativo - Policial Legislativo](./senado22-5/) *(senado22/5)*
 15/01/2025: Resultado Final de Aprovados - Retificado - Candidatos Sub Judice
