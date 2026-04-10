@@ -1,5 +1,8 @@
 # Concursos
 
+## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
+01/04/2026: Cronograma Previsto
+
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 12/03/2026: Resultado Final de Aprovados Retificado (candidatos sub judice)
 
@@ -47,9 +50,6 @@
 
 ## [Tribunal de Justiça do Estado do Tocantins](./tjto22/) *(tjto22)*
 26/07/2023: Edital de Homologação
-
-## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-03/07/2023: Cronograma Previsto (atualizado em 01/04/2026)
 
 ## [Tribunal de Contas do Estado do Tocantins](./tceto22/) *(tceto22)*
 10/02/2023: Edital de Homologação
