@@ -1,7 +1,7 @@
 # Concursos
 
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
-14/04/2026: Relação dos candidatos aprovados não nomeados e dos reclassificados no Edital nº 01/2023 em ordem decrescente de notas
+15/04/2026: Indicação da Ordem de Preferência do Local de Locação
 
 ## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
 12/03/2026: Resultado Final de Aprovados Retificado (candidatos sub judice)
