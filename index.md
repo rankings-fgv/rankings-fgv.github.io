@@ -1,13 +1,13 @@
 # Concursos
 
+## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
+16/04/2026: Resultado Final de Aprovados Retificado (candidatos sub judice)
+
 ## [Secretaria da Educação do Estado do Tocantins - Professor Regente, Coordenador Pedagógico e Orientador Educacional](./secad.to-01/) *(secad.to/01)*
 15/04/2026: Indicação da Ordem de Preferência do Local de Locação
 
-## [Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT)](./tjdft22/) *(tjdft22)*
-12/03/2026: Resultado Final de Aprovados Retificado (candidatos sub judice)
-
 ## [Receita Federal do Brasil](./rfb22/) *(rfb22)*
-19/02/2026: Resultado Final de Aprovados (específico para candidatos negros) (retificado em 17/03/2026)
+19/02/2026: Resultado Final de Aprovados (específico para candidatos negros) (retificado em 16/04/2026)
 
 ## [Tribunal Regional do Trabalho - 16ª Região](./trt16/) *(trt16)*
 15/10/2025: COMUNICADO
